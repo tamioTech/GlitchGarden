@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8c2d6be61729f4abbb63146b9c98a971
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Demon Blade
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e04a7c62ca2e649bba40595bb8e6357f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
