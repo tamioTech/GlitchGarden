@@ -12,672 +12,88 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-62474
+64032
 Successfully changed project path to: /Users/tamio/Documents/UnityProjects/Unity2DCourse/GlitchGarden/GlitchGarden
 /Users/tamio/Documents/UnityProjects/Unity2DCourse/GlitchGarden/GlitchGarden
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 52.45 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 51.84 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
 [Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path /Users/tamio/Documents/UnityProjects/Unity2DCourse/GlitchGarden/GlitchGarden/Assets
 GfxDevice: creating device client; threaded=0
-2021-04-22 15:58:58.093 Unity[27208:1046789] VE247 preferred device: NVIDIA GeForce GT 650M (high power)
-2021-04-22 15:58:58.093 Unity[27208:1046789] Metal devices available: 2
-2021-04-22 15:58:58.093 Unity[27208:1046789] 0: NVIDIA GeForce GT 650M (high power)
-2021-04-22 15:58:58.093 Unity[27208:1046789] 1: Intel HD Graphics 4000 (low power)
-2021-04-22 15:58:58.094 Unity[27208:1046789] Using device NVIDIA GeForce GT 650M (high power)
+2021-04-22 17:03:21.933 Unity[27945:1071076] VE247 preferred device: NVIDIA GeForce GT 650M (high power)
+2021-04-22 17:03:21.933 Unity[27945:1071076] Metal devices available: 2
+2021-04-22 17:03:21.933 Unity[27945:1071076] 0: NVIDIA GeForce GT 650M (high power)
+2021-04-22 17:03:21.933 Unity[27945:1071076] 1: Intel HD Graphics 4000 (low power)
+2021-04-22 17:03:21.934 Unity[27945:1071076] Using device NVIDIA GeForce GT 650M (high power)
 Initializing Metal device caps: NVIDIA GeForce GT 650M
 Initialize mono
 Mono path[0] = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56208
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56945
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/Hub/Editor/2020.2.1f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.000959 seconds.
+Registered in 0.000925 seconds.
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 48.90 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 55.74 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  7.381 seconds
+- Completed reload, in  5.169 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000683 seconds.
+Registered in 0.000738 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 55.29 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 51.55 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.480 seconds
+- Completed reload, in  1.486 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launching external process: /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/UnityShaderCompiler
 Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
-Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1834 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 150.9 MB.
-System memory in use after: 150.8 MB.
-
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2274.
-Total: 2.673398 ms (FindLiveObjects: 0.230516 ms CreateObjectMapping: 0.072797 ms MarkObjects: 2.200174 ms  DeleteObjects: 0.168272 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Fonts
-  artifactKey: Guid(566f1941eba404bab83ea4d4b7b0e005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Fonts using Guid(566f1941eba404bab83ea4d4b7b0e005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '879cc544fbd7c3146779ed0c99246498') in 0.006835 seconds
-  Import took 0.010305 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 30.576331 seconds.
-  path: Assets/Fonts/demon_blade
-  artifactKey: Guid(39390fcfb0d6f46e0af8d346b477f55d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Fonts/demon_blade using Guid(39390fcfb0d6f46e0af8d346b477f55d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28684d8b50107f4ff32f4144dcccbec7') in 0.002414 seconds
-  Import took 0.006163 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000487 seconds.
-  path: Assets/Fonts/demon_blade
-  artifactKey: Guid(39390fcfb0d6f46e0af8d346b477f55d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Fonts/demon_blade using Guid(39390fcfb0d6f46e0af8d346b477f55d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28684d8b50107f4ff32f4144dcccbec7') in 0.001238 seconds
-  Import took 0.004713 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.777531 seconds.
-  path: Assets/Fonts/demon_blade/Demon Blade.otf
-  artifactKey: Guid(e04a7c62ca2e649bba40595bb8e6357f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Fonts/demon_blade/Demon Blade.otf using Guid(e04a7c62ca2e649bba40595bb8e6357f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad728a716d7677a4001c00719aea250a') in 0.806133 seconds
-  Import took 0.809674 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.153397 seconds.
-  path: Assets/Fonts/demon_blade/Demon Blade.woff
-  artifactKey: Guid(e3c13d58d70ed4aa2aec50ae676cd8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Fonts/demon_blade/Demon Blade.woff using Guid(e3c13d58d70ed4aa2aec50ae676cd8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcf3c44802b7cded63ac00a6f53a207b') in 0.267286 seconds
-  Import took 0.270954 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.412998 seconds.
-  path: Assets/Fonts/demon_blade/Demon Blade.ttf
-  artifactKey: Guid(8c2d6be61729f4abbb63146b9c98a971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Fonts/demon_blade/Demon Blade.ttf using Guid(8c2d6be61729f4abbb63146b9c98a971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e701e64f55c81c2bb8aba34428fd7cbe') in 0.395698 seconds
-  Import took 0.399660 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 79.969039 seconds.
-  path: Assets/Fonts/demon_blade/Demon Blade.woff2
-  artifactKey: Guid(a1b573aeec5a841c6a5a400830b418e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Fonts/demon_blade/Demon Blade.woff2 using Guid(a1b573aeec5a841c6a5a400830b418e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4dd8e4000f571ba989ba746f775bfae') in 0.170437 seconds
-  Import took 0.173925 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1541.507514 seconds.
-  path: Assets
-  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1a2c4dac9df7c17871e19a3b74f0e9f') in 0.001929 seconds
-  Import took 0.005564 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.747507 seconds.
-  path: Assets/Sound Effects
-  artifactKey: Guid(c5c5f9cd036e546968318ba26585226c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects using Guid(c5c5f9cd036e546968318ba26585226c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8df64091613497a95a1411204edad20') in 0.002412 seconds
-  Import took 0.006656 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 26.925845 seconds.
-  path: Assets/Sound Effects/krank_sounds
-  artifactKey: Guid(5fa6d2e51718e40f38cc5fca1536b75a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds using Guid(5fa6d2e51718e40f38cc5fca1536b75a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d888206533026b9acf62a3ecc04a05b') in 0.002675 seconds
-  Import took 0.006596 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.204367 seconds.
-  path: Assets/Sound Effects/krank_sounds/industry
-  artifactKey: Guid(84a6cab1ed0c04c91a9abd26c4b66ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/industry using Guid(84a6cab1ed0c04c91a9abd26c4b66ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd95ca7e8adbcd1c5663d9d2fcb70743a') in 0.002289 seconds
-  Import took 0.006062 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000716 seconds.
-  path: Assets/Sound Effects/krank_sounds/industry
-  artifactKey: Guid(84a6cab1ed0c04c91a9abd26c4b66ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/industry using Guid(84a6cab1ed0c04c91a9abd26c4b66ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd95ca7e8adbcd1c5663d9d2fcb70743a') in 0.001221 seconds
-  Import took 0.004746 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.441671 seconds.
-  path: Assets/Sound Effects/krank_sounds/industry/anchor_action.wav
-  artifactKey: Guid(ed871fba61042419081b44eebd815110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/industry/anchor_action.wav using Guid(ed871fba61042419081b44eebd815110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e04bd35956c036647f468ba2c45a8a8c') in 0.412756 seconds
-  Import took 0.416397 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 20.888414 seconds.
-  path: Assets/Sound Effects/krank_sounds/industry/exit.wav
-  artifactKey: Guid(ae08561e6098645c0ab4f87c07c0cbc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/industry/exit.wav using Guid(ae08561e6098645c0ab4f87c07c0cbc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd9f7c4940c6d6f21c5a0d706aa461a4') in 0.010931 seconds
-  Import took 0.015004 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.736401 seconds.
-  path: Assets/Sound Effects/krank_sounds/industry/link.wav
-  artifactKey: Guid(451e4842b644a4d4ba30bb5f3012b1c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/industry/link.wav using Guid(451e4842b644a4d4ba30bb5f3012b1c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3e920c34d7d6be85d69562f74866215') in 0.008117 seconds
-  Import took 0.012494 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.877148 seconds.
-  path: Assets/Sound Effects/krank_sounds/industry/magnet_action.wav
-  artifactKey: Guid(b4fe7434597e64baa84e254f090948ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/industry/magnet_action.wav using Guid(b4fe7434597e64baa84e254f090948ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a423b961532fbd8bc855a88c04646761') in 0.008141 seconds
-  Import took 0.012185 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.810227 seconds.
-  path: Assets/Sound Effects/krank_sounds/industry/magnet_off.wav
-  artifactKey: Guid(752b93712ede54376bbce44891f96ab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/industry/magnet_off.wav using Guid(752b93712ede54376bbce44891f96ab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bac0c7d29ba3dfcca05719411d1ad941') in 0.007647 seconds
-  Import took 0.011722 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001326 seconds.
-  path: Assets/Sound Effects/krank_sounds/industry/magnet_off.wav
-  artifactKey: Guid(752b93712ede54376bbce44891f96ab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/industry/magnet_off.wav using Guid(752b93712ede54376bbce44891f96ab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bac0c7d29ba3dfcca05719411d1ad941') in 0.009135 seconds
-  Import took 0.012615 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 37.369233 seconds.
-  path: Assets/Sound Effects/krank_sounds/industry/magnet_start.wav
-  artifactKey: Guid(e3100e0cc830245b6aa9adbefed5b2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/industry/magnet_start.wav using Guid(e3100e0cc830245b6aa9adbefed5b2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7de2af21fde1e374d6c2cf5e8dbee38d') in 0.008825 seconds
-  Import took 0.012607 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.860388 seconds.
-  path: Assets/Sound Effects/krank_sounds/industry/part.wav
-  artifactKey: Guid(10ab513d53b0349f383b7864bf0b3ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/industry/part.wav using Guid(10ab513d53b0349f383b7864bf0b3ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c88dd61679029d7c4989327cf88dd141') in 0.009360 seconds
-  Import took 0.013872 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.037384 seconds.
-  path: Assets/Sound Effects/krank_sounds/industry/unlink.wav
-  artifactKey: Guid(1fb98c5a61d9c4a0888ccd15c0b1abf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/industry/unlink.wav using Guid(1fb98c5a61d9c4a0888ccd15c0b1abf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '169a51b0b169da300ad82b339064ed01') in 0.008182 seconds
-  Import took 0.011989 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000895 seconds.
-  path: Assets/Sound Effects/krank_sounds/industry/unlink.wav
-  artifactKey: Guid(1fb98c5a61d9c4a0888ccd15c0b1abf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/industry/unlink.wav using Guid(1fb98c5a61d9c4a0888ccd15c0b1abf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '169a51b0b169da300ad82b339064ed01') in 0.008088 seconds
-  Import took 0.011653 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.209639 seconds.
-  path: Assets/Sound Effects/krank_sounds/industry/wall.wav
-  artifactKey: Guid(c4bd9473cb91a4deb8fdac2e684066d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/industry/wall.wav using Guid(c4bd9473cb91a4deb8fdac2e684066d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28df6833e6db35fbb7d2d0b541fc695b') in 0.008626 seconds
-  Import took 0.012878 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000611 seconds.
-  path: Assets/Sound Effects/krank_sounds/industry/wall.wav
-  artifactKey: Guid(c4bd9473cb91a4deb8fdac2e684066d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/industry/wall.wav using Guid(c4bd9473cb91a4deb8fdac2e684066d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28df6833e6db35fbb7d2d0b541fc695b') in 0.014196 seconds
-  Import took 0.017814 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.976495 seconds.
-  path: Assets/Sound Effects/krank_sounds/menu/exit.wav
-  artifactKey: Guid(27f62ec7ea10840cdaa73f9c48eb43c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/menu/exit.wav using Guid(27f62ec7ea10840cdaa73f9c48eb43c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3ff5d219d2ef8df5996ecccc9081374') in 0.007889 seconds
-  Import took 0.011694 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.834727 seconds.
-  path: Assets/Sound Effects/krank_sounds/menu/part.wav
-  artifactKey: Guid(759ca8231f19d4005bff5105515f0b19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/menu/part.wav using Guid(759ca8231f19d4005bff5105515f0b19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ebfb15ee3ae11e0e02be1d92f3e08a7') in 0.008888 seconds
-  Import took 0.012641 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.067955 seconds.
-  path: Assets/Sound Effects/krank_sounds/menu/wall.wav
-  artifactKey: Guid(144c4b784a59048619d3df148580a396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/menu/wall.wav using Guid(144c4b784a59048619d3df148580a396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dccd6dec84b780c59dd9a21f3c2b6ce') in 0.014769 seconds
-  Import took 0.018437 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000438 seconds.
-  path: Assets/Sound Effects/krank_sounds/menu/wall.wav
-  artifactKey: Guid(144c4b784a59048619d3df148580a396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/menu/wall.wav using Guid(144c4b784a59048619d3df148580a396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dccd6dec84b780c59dd9a21f3c2b6ce') in 0.009606 seconds
-  Import took 0.013286 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.182145 seconds.
-  path: Assets/Sound Effects/krank_sounds/space/anchor_action.wav
-  artifactKey: Guid(b5a8c58e2c4bd4e9d9070ccb1a6a3912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/space/anchor_action.wav using Guid(b5a8c58e2c4bd4e9d9070ccb1a6a3912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5a7a6b816e697beda382b3a81538842') in 0.008063 seconds
-  Import took 0.011731 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.801793 seconds.
-  path: Assets/Sound Effects/krank_sounds/space/exit.wav
-  artifactKey: Guid(65e3ef3c8e3244e22a7712dfc579cc7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/space/exit.wav using Guid(65e3ef3c8e3244e22a7712dfc579cc7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db86ba8603550a03c719a800dd7b3f2b') in 0.008833 seconds
-  Import took 0.012494 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001112 seconds.
-  path: Assets/Sound Effects/krank_sounds/space/exit.wav
-  artifactKey: Guid(65e3ef3c8e3244e22a7712dfc579cc7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/space/exit.wav using Guid(65e3ef3c8e3244e22a7712dfc579cc7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db86ba8603550a03c719a800dd7b3f2b') in 0.008021 seconds
-  Import took 0.011551 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.147273 seconds.
-  path: Assets/Sound Effects/krank_sounds/space/link.wav
-  artifactKey: Guid(9db64f7648a344649a8e2703d7f5ef67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/space/link.wav using Guid(9db64f7648a344649a8e2703d7f5ef67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66a9968912c6f9391a1816e856f5b087') in 0.008209 seconds
-  Import took 0.012192 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.499462 seconds.
-  path: Assets/Sound Effects/krank_sounds/space/magnet_action.wav
-  artifactKey: Guid(5e425eee07e504a73a9ae76097b353d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/space/magnet_action.wav using Guid(5e425eee07e504a73a9ae76097b353d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bd103b11f4c2e74185ac9fe3f2aab56') in 0.008686 seconds
-  Import took 0.012612 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.599130 seconds.
-  path: Assets/Sound Effects/krank_sounds/space/magnet_off.wav
-  artifactKey: Guid(0db0e70c501504e81a3eb839831015de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/space/magnet_off.wav using Guid(0db0e70c501504e81a3eb839831015de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8235462421b7c91cda9e087cac6dfb7e') in 0.007707 seconds
-  Import took 0.011837 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.646724 seconds.
-  path: Assets/Sound Effects/krank_sounds/space/magnet_on.wav
-  artifactKey: Guid(3c0801174b8cd40a78dbc99209cd978e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/space/magnet_on.wav using Guid(3c0801174b8cd40a78dbc99209cd978e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c04798ef0c96f4ecc212678d4eacdbd') in 0.009087 seconds
-  Import took 0.013078 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.791847 seconds.
-  path: Assets/Sound Effects/krank_sounds/space/magnet_start.wav
-  artifactKey: Guid(a8e2e172ac2e54ce79ec30e726f36cb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/space/magnet_start.wav using Guid(a8e2e172ac2e54ce79ec30e726f36cb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2feed26d3d03ef5459527d7b1aa87ee8') in 0.008204 seconds
-  Import took 0.012185 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.632605 seconds.
-  path: Assets/Sound Effects/krank_sounds/space/part.wav
-  artifactKey: Guid(720519eb5a57e4be1a2819ce66fd6650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/space/part.wav using Guid(720519eb5a57e4be1a2819ce66fd6650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31c9b04f859734e77e0018dad7a6f55e') in 0.007535 seconds
-  Import took 0.011667 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001237 seconds.
-  path: Assets/Sound Effects/krank_sounds/space/part.wav
-  artifactKey: Guid(720519eb5a57e4be1a2819ce66fd6650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/space/part.wav using Guid(720519eb5a57e4be1a2819ce66fd6650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31c9b04f859734e77e0018dad7a6f55e') in 0.009332 seconds
-  Import took 0.012804 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.491952 seconds.
-  path: Assets/Sound Effects/krank_sounds/space/unlink.wav
-  artifactKey: Guid(d207592cb589a4be59acd1fd3905022f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/space/unlink.wav using Guid(d207592cb589a4be59acd1fd3905022f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '878d4f55a70be90881c542e71b510814') in 0.008946 seconds
-  Import took 0.012883 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000289 seconds.
-  path: Assets/Sound Effects/krank_sounds/space/unlink.wav
-  artifactKey: Guid(d207592cb589a4be59acd1fd3905022f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/space/unlink.wav using Guid(d207592cb589a4be59acd1fd3905022f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '878d4f55a70be90881c542e71b510814') in 0.012557 seconds
-  Import took 0.016285 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.735914 seconds.
-  path: Assets/Sound Effects/krank_sounds/space/wall.wav
-  artifactKey: Guid(b9e07ffe6d39445b3b274276b8308e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/space/wall.wav using Guid(b9e07ffe6d39445b3b274276b8308e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f30b5f013a519c3448e675af6495163') in 0.008234 seconds
-  Import took 0.012004 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.810933 seconds.
-  path: Assets/Sound Effects/krank_sounds/summer/anchor_action.wav
-  artifactKey: Guid(a3b4ffe43dd7e4d849ab552b094dc173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/summer/anchor_action.wav using Guid(a3b4ffe43dd7e4d849ab552b094dc173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '863c70ece314ca00df2de54f36a571bf') in 0.008960 seconds
-  Import took 0.012892 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001574 seconds.
-  path: Assets/Sound Effects/krank_sounds/summer/anchor_action.wav
-  artifactKey: Guid(a3b4ffe43dd7e4d849ab552b094dc173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/summer/anchor_action.wav using Guid(a3b4ffe43dd7e4d849ab552b094dc173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '863c70ece314ca00df2de54f36a571bf') in 0.012791 seconds
-  Import took 0.016643 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.294706 seconds.
-  path: Assets/Sound Effects/krank_sounds/summer/exit.wav
-  artifactKey: Guid(dc9054b5ad58841ac9722859367bb96b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/summer/exit.wav using Guid(dc9054b5ad58841ac9722859367bb96b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04897da5c7052471089ed94fef34380f') in 0.007493 seconds
-  Import took 0.011193 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.233079 seconds.
-  path: Assets/Sound Effects/krank_sounds/summer/link.wav
-  artifactKey: Guid(f72027b65b3c744129e4bbfc2a997232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/summer/link.wav using Guid(f72027b65b3c744129e4bbfc2a997232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98bb3f0898b763d79310a31bc17c37c0') in 0.007566 seconds
-  Import took 0.011692 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001100 seconds.
-  path: Assets/Sound Effects/krank_sounds/summer/link.wav
-  artifactKey: Guid(f72027b65b3c744129e4bbfc2a997232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/summer/link.wav using Guid(f72027b65b3c744129e4bbfc2a997232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98bb3f0898b763d79310a31bc17c37c0') in 0.008256 seconds
-  Import took 0.011722 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.916873 seconds.
-  path: Assets/Sound Effects/krank_sounds/water/unlink.wav
-  artifactKey: Guid(20957bb5863894f0ea08a19708550d8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/water/unlink.wav using Guid(20957bb5863894f0ea08a19708550d8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2eaa1a076d5f4e0b2132756da0a6a2e') in 0.009722 seconds
-  Import took 0.013474 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000419 seconds.
-  path: Assets/Sound Effects/krank_sounds/water/unlink.wav
-  artifactKey: Guid(20957bb5863894f0ea08a19708550d8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/water/unlink.wav using Guid(20957bb5863894f0ea08a19708550d8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2eaa1a076d5f4e0b2132756da0a6a2e') in 0.007389 seconds
-  Import took 0.010963 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.541100 seconds.
-  path: Assets/Sound Effects/krank_sounds/water/part.wav
-  artifactKey: Guid(bff9204180b814128ae186799334cb75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/water/part.wav using Guid(bff9204180b814128ae186799334cb75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0bf614e8a52b6ad7b0cdcf2708ccd82') in 0.007348 seconds
-  Import took 0.011163 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.495150 seconds.
-  path: Assets/Sound Effects/krank_sounds/water/magnet_on.wav
-  artifactKey: Guid(097ebc6e505e148f49d986dfb3e19f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/water/magnet_on.wav using Guid(097ebc6e505e148f49d986dfb3e19f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfb2594daf6b7b82f0e2a2e1f906f6d0') in 0.009145 seconds
-  Import took 0.012805 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000880 seconds.
-  path: Assets/Sound Effects/krank_sounds/water/magnet_on.wav
-  artifactKey: Guid(097ebc6e505e148f49d986dfb3e19f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/water/magnet_on.wav using Guid(097ebc6e505e148f49d986dfb3e19f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfb2594daf6b7b82f0e2a2e1f906f6d0') in 0.009126 seconds
-  Import took 0.012514 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.582954 seconds.
-  path: Assets/Sound Effects/krank_sounds/water/magnet_start.wav
-  artifactKey: Guid(4923af2b513694f13892259a011e7354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/water/magnet_start.wav using Guid(4923af2b513694f13892259a011e7354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87f0eee0d5b02d15507009e61aa9a9d4') in 0.007909 seconds
-  Import took 0.011876 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000651 seconds.
-  path: Assets/Sound Effects/krank_sounds/water/magnet_start.wav
-  artifactKey: Guid(4923af2b513694f13892259a011e7354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/water/magnet_start.wav using Guid(4923af2b513694f13892259a011e7354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87f0eee0d5b02d15507009e61aa9a9d4') in 0.008513 seconds
-  Import took 0.012101 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.824142 seconds.
-  path: Assets/Sound Effects/krank_sounds/water/magnet_off.wav
-  artifactKey: Guid(7ea3f2d9d767e47478f12dec6b35bc30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/water/magnet_off.wav using Guid(7ea3f2d9d767e47478f12dec6b35bc30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '564c2d5b9745ac8467cba7c5c5a52d1c') in 0.010242 seconds
-  Import took 0.014155 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.643874 seconds.
-  path: Assets/Sound Effects/krank_sounds/water/magnet_action.wav
-  artifactKey: Guid(64b9664c312294b95a207f64f5ad8c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/water/magnet_action.wav using Guid(64b9664c312294b95a207f64f5ad8c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf87f41f73718a4ccd5e240c6b70c256') in 0.008564 seconds
-  Import took 0.012393 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000984 seconds.
-  path: Assets/Sound Effects/krank_sounds/water/magnet_action.wav
-  artifactKey: Guid(64b9664c312294b95a207f64f5ad8c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/water/magnet_action.wav using Guid(64b9664c312294b95a207f64f5ad8c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf87f41f73718a4ccd5e240c6b70c256') in 0.014335 seconds
-  Import took 0.018727 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.761551 seconds.
-  path: Assets/Sound Effects/krank_sounds/water/link.wav
-  artifactKey: Guid(40bf8c55465714d73bf93c3f6a9eaa3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/water/link.wav using Guid(40bf8c55465714d73bf93c3f6a9eaa3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c84226062e9730986771ce64045815ef') in 0.009223 seconds
-  Import took 0.013286 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.995220 seconds.
-  path: Assets/Sound Effects/krank_sounds/summer/magnet_off.wav
-  artifactKey: Guid(d339c7c1d8cbc46da90f1b2748862078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/summer/magnet_off.wav using Guid(d339c7c1d8cbc46da90f1b2748862078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '189fb10ca08e02a966fc39b7ebcaab18') in 0.014119 seconds
-  Import took 0.018203 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000619 seconds.
-  path: Assets/Sound Effects/krank_sounds/summer/magnet_off.wav
-  artifactKey: Guid(d339c7c1d8cbc46da90f1b2748862078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/summer/magnet_off.wav using Guid(d339c7c1d8cbc46da90f1b2748862078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '189fb10ca08e02a966fc39b7ebcaab18') in 0.010633 seconds
-  Import took 0.014625 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.788019 seconds.
-  path: Assets/Sound Effects/krank_sounds/summer/magnet_action.wav
-  artifactKey: Guid(a57ef7a414c3e4a61a0fe699ca68f6be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/summer/magnet_action.wav using Guid(a57ef7a414c3e4a61a0fe699ca68f6be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e889ff47a10c09929af5e1060c91dc4') in 0.008149 seconds
-  Import took 0.011920 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.096384 seconds.
-  path: Assets/Sound Effects/krank_sounds/summer/magnet_start.wav
-  artifactKey: Guid(47fbecb391d9946348195086cbee0f09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/summer/magnet_start.wav using Guid(47fbecb391d9946348195086cbee0f09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdd2d1a6e7f885f958cbdf9ac012d7aa') in 0.008241 seconds
-  Import took 0.011976 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.393376 seconds.
-  path: Assets/Sound Effects/krank_sounds/summer/part.wav
-  artifactKey: Guid(25147f9abe13e474c828559592b2613d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/summer/part.wav using Guid(25147f9abe13e474c828559592b2613d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf8ab833746c4db926a34ff05eed6af9') in 0.009118 seconds
-  Import took 0.013481 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.404975 seconds.
-  path: Assets/Sound Effects/krank_sounds/summer/unlink.wav
-  artifactKey: Guid(8a033dbca7e4d4380b31077cd0416afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/summer/unlink.wav using Guid(8a033dbca7e4d4380b31077cd0416afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eec080f16c98ca544d05229428f7528c') in 0.008136 seconds
-  Import took 0.011963 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.901683 seconds.
-  path: Assets/Sound Effects/krank_sounds/summer/wall.wav
-  artifactKey: Guid(2cfe229c5ac5c400dba4fb334b1b9a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound Effects/krank_sounds/summer/wall.wav using Guid(2cfe229c5ac5c400dba4fb334b1b9a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97ecbedcd2ed1fa1382f09c9e5fec16e') in 0.008077 seconds
-  Import took 0.012033 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000764 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.259 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1816 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 176.8 MB.
-System memory in use after: 176.8 MB.
+Unloading 1835 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 151.0 MB.
+System memory in use after: 150.9 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2323.
-Total: 3.009077 ms (FindLiveObjects: 0.329385 ms CreateObjectMapping: 0.155048 ms MarkObjects: 2.400162 ms  DeleteObjects: 0.122686 ms)
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2275.
+Total: 2.739666 ms (FindLiveObjects: 0.247318 ms CreateObjectMapping: 0.085226 ms MarkObjects: 2.242077 ms  DeleteObjects: 0.161935 ms)
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001074 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.532 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1816 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 177.3 MB.
-System memory in use after: 177.3 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2326.
-Total: 2.861723 ms (FindLiveObjects: 0.272866 ms CreateObjectMapping: 0.071370 ms MarkObjects: 2.377484 ms  DeleteObjects: 0.138054 ms)
+Received Import Request.
+  path: Assets/Splash Screen.unity
+  artifactKey: Guid(633e014c074fd485bb5a6ad065556383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Splash Screen.unity using Guid(633e014c074fd485bb5a6ad065556383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e16660e6931471fc8529d365299caa7') in 0.016027 seconds
+  Import took 0.020007 seconds .
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000746 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.255 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1816 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 177.6 MB.
-System memory in use after: 177.6 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2329.
-Total: 2.444599 ms (FindLiveObjects: 0.215231 ms CreateObjectMapping: 0.072202 ms MarkObjects: 2.027167 ms  DeleteObjects: 0.128438 ms)
+Received Import Request.
+  Time since last request: 41.479130 seconds.
+  path: Assets/Start screen.unity
+  artifactKey: Guid(633e014c074fd485bb5a6ad065556383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Start screen.unity using Guid(633e014c074fd485bb5a6ad065556383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b193c90d40053a122d68f524794739b1') in 0.001473 seconds
+  Import took 0.005406 seconds .
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006511 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.275 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1816 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 178.3 MB.
-System memory in use after: 178.3 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2332.
-Total: 3.223442 ms (FindLiveObjects: 0.397181 ms CreateObjectMapping: 0.105431 ms MarkObjects: 2.551884 ms  DeleteObjects: 0.166627 ms)
+Received Import Request.
+  Time since last request: 13.948277 seconds.
+  path: Assets/Scenes/Start screen.unity
+  artifactKey: Guid(633e014c074fd485bb5a6ad065556383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Start screen.unity using Guid(633e014c074fd485bb5a6ad065556383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb035005f07b72ff958411d1e7f412af') in 0.003225 seconds
+  Import took 0.006854 seconds .
 
