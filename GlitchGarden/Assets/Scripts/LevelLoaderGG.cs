@@ -10,10 +10,12 @@ public class LevelLoaderGG : MonoBehaviour
 {
 
     [SerializeField] AudioClip quitGameButtonSound;
+    [SerializeField] AudioClip startButtonSound;
 
     public void StartButtonPushed()
     {
         Debug.Log("Great jooooorb!");
+        AudioSource.PlayClipAtPoint(startButtonSound, Camera.main.transform.position);
     }
 
     public void QuitButtonPressed()

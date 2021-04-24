@@ -483,6 +483,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   quitGameButtonSound: {fileID: 8300000, guid: 451e4842b644a4d4ba30bb5f3012b1c8, type: 3}
+  startButtonSound: {fileID: 0}
 --- !u!1 &852488624
 GameObject:
   m_ObjectHideFlags: 0
@@ -1143,4 +1144,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 278c457a83c7b41569e2f8d2d3abab72, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  quitGameButtonSound: {fileID: 0}
+  quitGameButtonSound: {fileID: 8300000, guid: 0db0e70c501504e81a3eb839831015de, type: 3}
+  startButtonSound: {fileID: 8300000, guid: 9db64f7648a344649a8e2703d7f5ef67, type: 3}
