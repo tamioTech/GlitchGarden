@@ -529,3 +529,43 @@ Received Import Request.
 Start importing Assets/Scenes/Level 1.unity using Guid(911029f6cd43249ec885bffaf1c7ad08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12cf48bbe81e1398c0268fe303946e2b') in 0.002930 seconds
   Import took 0.007013 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001376 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.314 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1817 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.3 MB.
+System memory in use after: 159.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2326.
+Total: 2.423611 ms (FindLiveObjects: 0.320935 ms CreateObjectMapping: 0.100961 ms MarkObjects: 1.866090 ms  DeleteObjects: 0.133327 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 8318.522332 seconds.
+  path: Assets/Images/Background Art
+  artifactKey: Guid(ee7f16312e9944e9e821ca3d611adccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Background Art using Guid(ee7f16312e9944e9e821ca3d611adccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f62eda52b341775e3d368cc17a379f18') in 0.055807 seconds
+  Import took 0.084205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.979861 seconds.
+  path: Assets/Images/Background Art/bg_glitchGarden-1920x1080.jpg
+  artifactKey: Guid(e2da5d2fbc38a40e1b1880d8a12b769d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Background Art/bg_glitchGarden-1920x1080.jpg using Guid(e2da5d2fbc38a40e1b1880d8a12b769d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a5d97c59b89420c638a9f1d87f09434') in 0.759865 seconds
+  Import took 0.765099 seconds .
+
