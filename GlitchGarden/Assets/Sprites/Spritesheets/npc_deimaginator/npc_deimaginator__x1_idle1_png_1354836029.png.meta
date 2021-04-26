@@ -1,0 +1,3384 @@
+fileFormatVersion: 2
+guid: ac9517af3d67d41fb9a49b4fa29d3019
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8074496515870075339
+    second: npc_deimaginator__x1_idle1_png_1354836029_0
+  - first:
+      213: -6563103900704494453
+    second: npc_deimaginator__x1_idle1_png_1354836029_1
+  - first:
+      213: 1995911091740765924
+    second: npc_deimaginator__x1_idle1_png_1354836029_2
+  - first:
+      213: 2392171324407297495
+    second: npc_deimaginator__x1_idle1_png_1354836029_3
+  - first:
+      213: -2918277411667101101
+    second: npc_deimaginator__x1_idle1_png_1354836029_4
+  - first:
+      213: -968299701270346837
+    second: npc_deimaginator__x1_idle1_png_1354836029_5
+  - first:
+      213: -4262417269408793972
+    second: npc_deimaginator__x1_idle1_png_1354836029_6
+  - first:
+      213: -7540095945394597195
+    second: npc_deimaginator__x1_idle1_png_1354836029_7
+  - first:
+      213: -9178643847974818901
+    second: npc_deimaginator__x1_idle1_png_1354836029_8
+  - first:
+      213: 6981332160953546368
+    second: npc_deimaginator__x1_idle1_png_1354836029_9
+  - first:
+      213: 2880911766811183271
+    second: npc_deimaginator__x1_idle1_png_1354836029_10
+  - first:
+      213: 5530608831569626931
+    second: npc_deimaginator__x1_idle1_png_1354836029_11
+  - first:
+      213: -1321976312952093631
+    second: npc_deimaginator__x1_idle1_png_1354836029_12
+  - first:
+      213: 2480819739354566529
+    second: npc_deimaginator__x1_idle1_png_1354836029_13
+  - first:
+      213: 5059907235868232038
+    second: npc_deimaginator__x1_idle1_png_1354836029_14
+  - first:
+      213: -946335669148902002
+    second: npc_deimaginator__x1_idle1_png_1354836029_15
+  - first:
+      213: -8130715221146452233
+    second: npc_deimaginator__x1_idle1_png_1354836029_16
+  - first:
+      213: -1177170707954323038
+    second: npc_deimaginator__x1_idle1_png_1354836029_17
+  - first:
+      213: -5462852578657345013
+    second: npc_deimaginator__x1_idle1_png_1354836029_18
+  - first:
+      213: 7265251826224955196
+    second: npc_deimaginator__x1_idle1_png_1354836029_19
+  - first:
+      213: 8819320104454587607
+    second: npc_deimaginator__x1_idle1_png_1354836029_20
+  - first:
+      213: -1882555764444599989
+    second: npc_deimaginator__x1_idle1_png_1354836029_21
+  - first:
+      213: -2960572632310800751
+    second: npc_deimaginator__x1_idle1_png_1354836029_22
+  - first:
+      213: -1622835060964470516
+    second: npc_deimaginator__x1_idle1_png_1354836029_23
+  - first:
+      213: 8357662885939238371
+    second: npc_deimaginator__x1_idle1_png_1354836029_24
+  - first:
+      213: -4280112127077971378
+    second: npc_deimaginator__x1_idle1_png_1354836029_25
+  - first:
+      213: -6144391329209002321
+    second: npc_deimaginator__x1_idle1_png_1354836029_26
+  - first:
+      213: 7093191283547645639
+    second: npc_deimaginator__x1_idle1_png_1354836029_27
+  - first:
+      213: 7466001431694253639
+    second: npc_deimaginator__x1_idle1_png_1354836029_28
+  - first:
+      213: 4394165964980537754
+    second: npc_deimaginator__x1_idle1_png_1354836029_29
+  - first:
+      213: -2053965442682628617
+    second: npc_deimaginator__x1_idle1_png_1354836029_30
+  - first:
+      213: -7519243737604986064
+    second: npc_deimaginator__x1_idle1_png_1354836029_31
+  - first:
+      213: 5439685771028502468
+    second: npc_deimaginator__x1_idle1_png_1354836029_32
+  - first:
+      213: 5387639978921034267
+    second: npc_deimaginator__x1_idle1_png_1354836029_33
+  - first:
+      213: 1143958165863015187
+    second: npc_deimaginator__x1_idle1_png_1354836029_34
+  - first:
+      213: -3676568434561321522
+    second: npc_deimaginator__x1_idle1_png_1354836029_35
+  - first:
+      213: -6090070733706998492
+    second: npc_deimaginator__x1_idle1_png_1354836029_36
+  - first:
+      213: 38643977179993448
+    second: npc_deimaginator__x1_idle1_png_1354836029_37
+  - first:
+      213: 2898044869140207328
+    second: npc_deimaginator__x1_idle1_png_1354836029_38
+  - first:
+      213: 9181189813668497125
+    second: npc_deimaginator__x1_idle1_png_1354836029_39
+  - first:
+      213: 4817393753744481269
+    second: npc_deimaginator__x1_idle1_png_1354836029_40
+  - first:
+      213: 5286375068424212353
+    second: npc_deimaginator__x1_idle1_png_1354836029_41
+  - first:
+      213: 7498655857942402065
+    second: npc_deimaginator__x1_idle1_png_1354836029_42
+  - first:
+      213: 6815629487395649688
+    second: npc_deimaginator__x1_idle1_png_1354836029_43
+  - first:
+      213: -2539413329230375588
+    second: npc_deimaginator__x1_idle1_png_1354836029_44
+  - first:
+      213: -3698151805133689189
+    second: npc_deimaginator__x1_idle1_png_1354836029_45
+  - first:
+      213: -5726403812218084468
+    second: npc_deimaginator__x1_idle1_png_1354836029_46
+  - first:
+      213: 5812395004157162381
+    second: npc_deimaginator__x1_idle1_png_1354836029_47
+  - first:
+      213: 7304228351815864091
+    second: npc_deimaginator__x1_idle1_png_1354836029_48
+  - first:
+      213: -4704772509999147132
+    second: npc_deimaginator__x1_idle1_png_1354836029_49
+  - first:
+      213: 5054463770787382904
+    second: npc_deimaginator__x1_idle1_png_1354836029_50
+  - first:
+      213: 2734034699365693141
+    second: npc_deimaginator__x1_idle1_png_1354836029_51
+  - first:
+      213: 6815285922743004058
+    second: npc_deimaginator__x1_idle1_png_1354836029_52
+  - first:
+      213: 2810461915056533276
+    second: npc_deimaginator__x1_idle1_png_1354836029_53
+  - first:
+      213: -4794010110489133701
+    second: npc_deimaginator__x1_idle1_png_1354836029_54
+  - first:
+      213: -7778942901849267834
+    second: npc_deimaginator__x1_idle1_png_1354836029_55
+  - first:
+      213: 6798608394301008109
+    second: npc_deimaginator__x1_idle1_png_1354836029_56
+  - first:
+      213: -5853383910272403194
+    second: npc_deimaginator__x1_idle1_png_1354836029_57
+  - first:
+      213: -1792309269807861213
+    second: npc_deimaginator__x1_idle1_png_1354836029_58
+  - first:
+      213: 3851540496432683396
+    second: npc_deimaginator__x1_idle1_png_1354836029_59
+  - first:
+      213: 3282005418117837128
+    second: npc_deimaginator__x1_idle1_png_1354836029_60
+  - first:
+      213: 423348804770801548
+    second: npc_deimaginator__x1_idle1_png_1354836029_61
+  - first:
+      213: -5334464997576687169
+    second: npc_deimaginator__x1_idle1_png_1354836029_62
+  - first:
+      213: -1864954092363579617
+    second: npc_deimaginator__x1_idle1_png_1354836029_63
+  - first:
+      213: -1993949031934930325
+    second: npc_deimaginator__x1_idle1_png_1354836029_64
+  - first:
+      213: -7469730255874855764
+    second: npc_deimaginator__x1_idle1_png_1354836029_65
+  - first:
+      213: 4966885969185465562
+    second: npc_deimaginator__x1_idle1_png_1354836029_66
+  - first:
+      213: -7234951739418307303
+    second: npc_deimaginator__x1_idle1_png_1354836029_67
+  - first:
+      213: 5107462742519089691
+    second: npc_deimaginator__x1_idle1_png_1354836029_68
+  - first:
+      213: 6355185077344050550
+    second: npc_deimaginator__x1_idle1_png_1354836029_69
+  - first:
+      213: 578492360819014416
+    second: npc_deimaginator__x1_idle1_png_1354836029_70
+  - first:
+      213: 7337962008489746370
+    second: npc_deimaginator__x1_idle1_png_1354836029_71
+  - first:
+      213: -3433877563200447094
+    second: npc_deimaginator__x1_idle1_png_1354836029_72
+  - first:
+      213: -2286956360238540017
+    second: npc_deimaginator__x1_idle1_png_1354836029_73
+  - first:
+      213: -9038553893648114001
+    second: npc_deimaginator__x1_idle1_png_1354836029_74
+  - first:
+      213: -8095932814298319101
+    second: npc_deimaginator__x1_idle1_png_1354836029_75
+  - first:
+      213: -7320555631573474736
+    second: npc_deimaginator__x1_idle1_png_1354836029_76
+  - first:
+      213: 4705979075321731441
+    second: npc_deimaginator__x1_idle1_png_1354836029_77
+  - first:
+      213: 4252112678417229422
+    second: npc_deimaginator__x1_idle1_png_1354836029_78
+  - first:
+      213: -8585735840343205909
+    second: npc_deimaginator__x1_idle1_png_1354836029_79
+  - first:
+      213: -8113918549382433528
+    second: npc_deimaginator__x1_idle1_png_1354836029_80
+  - first:
+      213: -846951196472130624
+    second: npc_deimaginator__x1_idle1_png_1354836029_81
+  - first:
+      213: -3428633995052204379
+    second: npc_deimaginator__x1_idle1_png_1354836029_82
+  - first:
+      213: 6145357742673670637
+    second: npc_deimaginator__x1_idle1_png_1354836029_83
+  - first:
+      213: -1500236315630437360
+    second: npc_deimaginator__x1_idle1_png_1354836029_84
+  - first:
+      213: 2856291173690249979
+    second: npc_deimaginator__x1_idle1_png_1354836029_85
+  - first:
+      213: -383464186771166351
+    second: npc_deimaginator__x1_idle1_png_1354836029_86
+  - first:
+      213: 2844909242557906866
+    second: npc_deimaginator__x1_idle1_png_1354836029_87
+  - first:
+      213: 7411196691942469834
+    second: npc_deimaginator__x1_idle1_png_1354836029_88
+  - first:
+      213: 7069562597123767905
+    second: npc_deimaginator__x1_idle1_png_1354836029_89
+  - first:
+      213: -4710675098167423235
+    second: npc_deimaginator__x1_idle1_png_1354836029_90
+  - first:
+      213: 8230933929662629041
+    second: npc_deimaginator__x1_idle1_png_1354836029_91
+  - first:
+      213: -3537041838126508960
+    second: npc_deimaginator__x1_idle1_png_1354836029_92
+  - first:
+      213: 1904681633532092256
+    second: npc_deimaginator__x1_idle1_png_1354836029_93
+  - first:
+      213: -480446446665961406
+    second: npc_deimaginator__x1_idle1_png_1354836029_94
+  - first:
+      213: -8730680070064940599
+    second: npc_deimaginator__x1_idle1_png_1354836029_95
+  - first:
+      213: -8953824127394426147
+    second: npc_deimaginator__x1_idle1_png_1354836029_96
+  - first:
+      213: 8577867768713403840
+    second: npc_deimaginator__x1_idle1_png_1354836029_97
+  - first:
+      213: -8096129473916869747
+    second: npc_deimaginator__x1_idle1_png_1354836029_98
+  - first:
+      213: -8646586439468644267
+    second: npc_deimaginator__x1_idle1_png_1354836029_99
+  - first:
+      213: 8219821510186502509
+    second: npc_deimaginator__x1_idle1_png_1354836029_100
+  - first:
+      213: 763037100857561072
+    second: npc_deimaginator__x1_idle1_png_1354836029_101
+  - first:
+      213: -5769505600447467374
+    second: npc_deimaginator__x1_idle1_png_1354836029_102
+  - first:
+      213: 6217155261314388202
+    second: npc_deimaginator__x1_idle1_png_1354836029_103
+  - first:
+      213: -1373354661438014673
+    second: npc_deimaginator__x1_idle1_png_1354836029_104
+  - first:
+      213: 852141759615655834
+    second: npc_deimaginator__x1_idle1_png_1354836029_105
+  - first:
+      213: 351024012335279496
+    second: npc_deimaginator__x1_idle1_png_1354836029_106
+  - first:
+      213: -6581947188313814491
+    second: npc_deimaginator__x1_idle1_png_1354836029_107
+  - first:
+      213: -775472872275818359
+    second: npc_deimaginator__x1_idle1_png_1354836029_108
+  - first:
+      213: -939032157000914627
+    second: npc_deimaginator__x1_idle1_png_1354836029_109
+  - first:
+      213: -384073556361416689
+    second: npc_deimaginator__x1_idle1_png_1354836029_110
+  - first:
+      213: -5209452494330420334
+    second: npc_deimaginator__x1_idle1_png_1354836029_111
+  - first:
+      213: -7091160539779514248
+    second: npc_deimaginator__x1_idle1_png_1354836029_112
+  - first:
+      213: -3540094620811980783
+    second: npc_deimaginator__x1_idle1_png_1354836029_113
+  - first:
+      213: 8142906127295095052
+    second: npc_deimaginator__x1_idle1_png_1354836029_114
+  - first:
+      213: 2575803569533841405
+    second: npc_deimaginator__x1_idle1_png_1354836029_115
+  - first:
+      213: 5361363222041349727
+    second: npc_deimaginator__x1_idle1_png_1354836029_116
+  - first:
+      213: -8654109591446275522
+    second: npc_deimaginator__x1_idle1_png_1354836029_117
+  - first:
+      213: 7148000196944741104
+    second: npc_deimaginator__x1_idle1_png_1354836029_118
+  - first:
+      213: 3562079018420841198
+    second: npc_deimaginator__x1_idle1_png_1354836029_119
+  - first:
+      213: 3366978082701431253
+    second: npc_deimaginator__x1_idle1_png_1354836029_120
+  - first:
+      213: -7443565165634987322
+    second: npc_deimaginator__x1_idle1_png_1354836029_121
+  - first:
+      213: -7364920492612328812
+    second: npc_deimaginator__x1_idle1_png_1354836029_122
+  - first:
+      213: -334109072540137175
+    second: npc_deimaginator__x1_idle1_png_1354836029_123
+  - first:
+      213: 5265342051644386030
+    second: npc_deimaginator__x1_idle1_png_1354836029_124
+  - first:
+      213: -8772507341387528952
+    second: npc_deimaginator__x1_idle1_png_1354836029_125
+  - first:
+      213: 6273300490679474181
+    second: npc_deimaginator__x1_idle1_png_1354836029_126
+  - first:
+      213: -4915000339079577177
+    second: npc_deimaginator__x1_idle1_png_1354836029_127
+  - first:
+      213: 2416472942796423742
+    second: npc_deimaginator__x1_idle1_png_1354836029_128
+  - first:
+      213: -8887107334232856515
+    second: npc_deimaginator__x1_idle1_png_1354836029_129
+  - first:
+      213: -8862125986099963973
+    second: npc_deimaginator__x1_idle1_png_1354836029_130
+  - first:
+      213: 7753211436070047609
+    second: npc_deimaginator__x1_idle1_png_1354836029_131
+  - first:
+      213: 5959886555967693328
+    second: npc_deimaginator__x1_idle1_png_1354836029_132
+  - first:
+      213: 9175763445836529595
+    second: npc_deimaginator__x1_idle1_png_1354836029_133
+  - first:
+      213: 8350556971843980706
+    second: npc_deimaginator__x1_idle1_png_1354836029_134
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1508
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5365f670330a1ff80800000000000000
+      internalID: -8074496515870075339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1508
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c278e66cb2be4a0800000000000000
+      internalID: -6563103900704494453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_2
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1508
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee687a2096e2bb10800000000000000
+      internalID: 1995911091740765924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_3
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1508
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d53c213523b23120800000000000000
+      internalID: 2392171324407297495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_4
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1508
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a3981e7223087d0800000000000000
+      internalID: -2918277411667101101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_5
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1508
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba30aad4d88ef82f0800000000000000
+      internalID: -968299701270346837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_6
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1508
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8af564a31ad8d4c0800000000000000
+      internalID: -4262417269408793972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_7
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1508
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b25462dfa23c5790800000000000000
+      internalID: -7540095945394597195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_8
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 1508
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babe2a10d08ee9080800000000000000
+      internalID: -9178643847974818901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_9
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 1508
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08675a89c9ca2e060800000000000000
+      internalID: 6981332160953546368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_10
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 1508
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8060afcfd0bf720800000000000000
+      internalID: 2880911766811183271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_11
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 1508
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337885d0e6ba0cc40800000000000000
+      internalID: 5530608831569626931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_12
+      rect:
+        serializedVersion: 2
+        x: 3047
+        y: 1508
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14482092c8567ade0800000000000000
+      internalID: -1321976312952093631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_13
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 1508
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f8104b864ad6220800000000000000
+      internalID: 2480819739354566529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_14
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 1508
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669ca5e82d6683640800000000000000
+      internalID: 5059907235868232038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1322
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d191a09b0fdd2f0800000000000000
+      internalID: -946335669148902002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_16
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1322
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe34b1b595e92f80800000000000000
+      internalID: -8130715221146452233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_17
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1322
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a133606a79d9afe0800000000000000
+      internalID: -1177170707954323038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_18
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1322
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b026dcce58c0034b0800000000000000
+      internalID: -5462852578657345013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_19
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1322
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f75e10b0c53d460800000000000000
+      internalID: 7265251826224955196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_20
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1322
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d40a7288e4846a70800000000000000
+      internalID: 8819320104454587607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_21
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1322
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b496a66a181dfd5e0800000000000000
+      internalID: -1882555764444599989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_22
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1322
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e1f5f60eee9e6d0800000000000000
+      internalID: -2960572632310800751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_23
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 1322
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01d9263c188a79e0800000000000000
+      internalID: -1622835060964470516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_24
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 1322
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5dfdc2d126cf370800000000000000
+      internalID: 8357662885939238371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_25
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 1322
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a0daa82bcf994c0800000000000000
+      internalID: -4280112127077971378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_26
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 1322
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6d185f3acbabaa0800000000000000
+      internalID: -6144391329209002321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_27
+      rect:
+        serializedVersion: 2
+        x: 3047
+        y: 1322
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c621cb14e3107260800000000000000
+      internalID: 7093191283547645639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_28
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 1322
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e91bcdeb09c9760800000000000000
+      internalID: 7466001431694253639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_29
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 1322
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99c6c2f9a63bfc30800000000000000
+      internalID: 4394165964980537754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_30
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1137
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f559ffef49de73e0800000000000000
+      internalID: -2053965442682628617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_31
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1137
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b6978c8a746a790800000000000000
+      internalID: -7519243737604986064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_32
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1137
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c796e75365ad7b40800000000000000
+      internalID: 5439685771028502468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_33
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1137
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b120841140eb4ca40800000000000000
+      internalID: 5387639978921034267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_34
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1137
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3132c2214e720ef00800000000000000
+      internalID: 1143958165863015187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_35
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1137
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5fe81fc743afcc0800000000000000
+      internalID: -3676568434561321522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_36
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1137
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d446c2fe8bb7ba0800000000000000
+      internalID: -6090070733706998492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_37
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1137
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86595841e7a498000800000000000000
+      internalID: 38643977179993448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_38
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 1135
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6de38347ce73820800000000000000
+      internalID: 2898044869140207328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_39
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 1135
+        width: 83
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e64523dd732a6f70800000000000000
+      internalID: 9181189813668497125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_40
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 1135
+        width: 81
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb102b6812dad240800000000000000
+      internalID: 4817393753744481269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_41
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 1135
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f08e6cd1afc5940800000000000000
+      internalID: 5286375068424212353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_42
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 1135
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1141f81f5c3901860800000000000000
+      internalID: 7498655857942402065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_43
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 1135
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89835e478eaf59e50800000000000000
+      internalID: 6815629487395649688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_44
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 1135
+        width: 69
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55d45d080132ccd0800000000000000
+      internalID: -2539413329230375588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_45
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 947
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e6981e6868dacc0800000000000000
+      internalID: -3698151805133689189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_46
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 947
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c836c44921ab780b0800000000000000
+      internalID: -5726403812218084468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_47
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 947
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83fa0df576c9a050800000000000000
+      internalID: 5812395004157162381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_48
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 947
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f425c8cf4dd5560800000000000000
+      internalID: 7304228351815864091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_49
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 947
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4875a70445a45beb0800000000000000
+      internalID: -4704772509999147132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_50
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 947
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8760dd31500152640800000000000000
+      internalID: 5054463770787382904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_51
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 947
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6b843d21e31f520800000000000000
+      internalID: 2734034699365693141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_52
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 947
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b21d31072c49e50800000000000000
+      internalID: 6815285922743004058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_53
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 947
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f65b5a834c00720800000000000000
+      internalID: 2810461915056533276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_54
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 947
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7df9aa4431487db0800000000000000
+      internalID: -4794010110489133701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_55
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 947
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6816a3735a4ab0490800000000000000
+      internalID: -7778942901849267834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_56
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 947
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8ec456052895e50800000000000000
+      internalID: 6798608394301008109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_57
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 947
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609f93e985a94cea0800000000000000
+      internalID: -5853383910272403194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_58
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 947
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322767517307027e0800000000000000
+      internalID: -1792309269807861213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_59
+      rect:
+        serializedVersion: 2
+        x: 3562
+        y: 947
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489d6e7dcab637530800000000000000
+      internalID: 3851540496432683396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_60
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 762
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84132d9f9860c8d20800000000000000
+      internalID: 3282005418117837128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_61
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 762
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c872374be7900e500800000000000000
+      internalID: 423348804770801548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_62
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 762
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1cfa0195c28f5b0800000000000000
+      internalID: -5334464997576687169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_63
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 762
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ff14a422a5e16e0800000000000000
+      internalID: -1864954092363579617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_64
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 762
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62d84b7be11454e0800000000000000
+      internalID: -1993949031934930325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_65
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 762
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac679a98ef265890800000000000000
+      internalID: -7469730255874855764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_66
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 762
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4eb29297cede440800000000000000
+      internalID: 4966885969185465562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_67
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 762
+        width: 70
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91590e4b9b9489b90800000000000000
+      internalID: -7234951739418307303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_68
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 762
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a8467cd4a51e640800000000000000
+      internalID: 5107462742519089691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_69
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 762
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d94f81827223850800000000000000
+      internalID: 6355185077344050550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_70
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 762
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bf4e7bcb7370800800000000000000
+      internalID: 578492360819014416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_71
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 762
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfd75b819da5d560800000000000000
+      internalID: 7337962008489746370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_72
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 762
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dd04bbc8a6850d0800000000000000
+      internalID: -3433877563200447094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_73
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 762
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b5923ae491340e0800000000000000
+      internalID: -2286956360238540017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_74
+      rect:
+        serializedVersion: 2
+        x: 3562
+        y: 762
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae51ed3f1b909280800000000000000
+      internalID: -9038553893648114001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_75
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 576
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307f15edff775af80800000000000000
+      internalID: -8095932814298319101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_76
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 576
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052e3956079286a90800000000000000
+      internalID: -7320555631573474736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_77
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 576
+        width: 69
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17919f0290ffe4140800000000000000
+      internalID: 4705979075321731441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_78
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 576
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e666efdc3f9820b30800000000000000
+      internalID: 4252112678417229422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_79
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 576
+        width: 69
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7d00d0eb659d880800000000000000
+      internalID: -8585735840343205909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_80
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 576
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8057b979112956f80800000000000000
+      internalID: -8113918549382433528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_81
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 576
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3cf28cf560f34f0800000000000000
+      internalID: -846951196472130624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_82
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 576
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aeb5141c8b0b60d0800000000000000
+      internalID: -3428633995052204379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_83
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 576
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1b2c5be42b84550800000000000000
+      internalID: 6145357742673670637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_84
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 576
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cf4bff4071e2be0800000000000000
+      internalID: -1500236315630437360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_85
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 576
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf214ee60b593a720800000000000000
+      internalID: 2856291173690249979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_86
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 576
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bab639a59adaaf0800000000000000
+      internalID: -383464186771166351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_87
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 576
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfb3e412e52b7720800000000000000
+      internalID: 2844909242557906866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_88
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 576
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0f7c7002cd9d660800000000000000
+      internalID: 7411196691942469834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_89
+      rect:
+        serializedVersion: 2
+        x: 3562
+        y: 576
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e33f6d9b12c1260800000000000000
+      internalID: 7069562597123767905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_90
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 390
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfec379d4f150aeb0800000000000000
+      internalID: -4710675098167423235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_91
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 390
+        width: 68
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b44047bcc62a3270800000000000000
+      internalID: 8230933929662629041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_92
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 390
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06456c23037e9eec0800000000000000
+      internalID: -3537041838126508960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_93
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 390
+        width: 68
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f14e0bad9ce6a10800000000000000
+      internalID: 1904681633532092256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_94
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 390
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24070e4908c1559f0800000000000000
+      internalID: -480446446665961406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_95
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 390
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c95230cbb466d680800000000000000
+      internalID: -8730680070064940599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_96
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 390
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd255514560adb380800000000000000
+      internalID: -8953824127394426147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_97
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 390
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd5f64c945ba0770800000000000000
+      internalID: 8577867768713403840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_98
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 390
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d836d9b7325c4af80800000000000000
+      internalID: -8096129473916869747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_99
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 390
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55803c3e177210880800000000000000
+      internalID: -8646586439468644267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_100
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 390
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6908cfec1ca21270800000000000000
+      internalID: 8219821510186502509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_101
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 390
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff0f03533ad69a00800000000000000
+      internalID: 763037100857561072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_102
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 390
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290b3bb79399eefa0800000000000000
+      internalID: -5769505600447467374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_103
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 390
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0581035c5c74650800000000000000
+      internalID: 6217155261314388202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_104
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 390
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b3c56363dd0fce0800000000000000
+      internalID: -1373354661438014673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_105
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 203
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fda206a6a63db00800000000000000
+      internalID: 852141759615655834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_106
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 203
+        width: 68
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d60eaba761fd400800000000000000
+      internalID: 351024012335279496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_107
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 203
+        width: 69
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a8c26a7e938a4a0800000000000000
+      internalID: -6581947188313814491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_108
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 203
+        width: 68
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9884c030887fc35f0800000000000000
+      internalID: -775472872275818359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_109
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 203
+        width: 69
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39aa497a33e7f2f0800000000000000
+      internalID: -939032157000914627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_110
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 203
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00f479a22f7baaf0800000000000000
+      internalID: -384073556361416689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_111
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 203
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293a929ae8e44b7b0800000000000000
+      internalID: -5209452494330420334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_112
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 203
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870cc254f03279d90800000000000000
+      internalID: -7091160539779514248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_113
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 203
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1101b37d2be0fdec0800000000000000
+      internalID: -3540094620811980783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_114
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 203
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01a6c4daf9610170800000000000000
+      internalID: 8142906127295095052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_115
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 203
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff6f3503b71fb320800000000000000
+      internalID: 2575803569533841405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_116
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 203
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e4e99d173676a40800000000000000
+      internalID: 5361363222041349727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_117
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 203
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a3b829d2d66e780800000000000000
+      internalID: -8654109591446275522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_118
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 203
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f24051be4cc23360800000000000000
+      internalID: 7148000196944741104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_119
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 203
+        width: 69
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeaa8da9efb0f6130800000000000000
+      internalID: 3562079018420841198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_120
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 18
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1d1f92ab8e9be20800000000000000
+      internalID: 3366978082701431253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_121
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 18
+        width: 69
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cadad76be423b890800000000000000
+      internalID: -7443565165634987322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_122
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 18
+        width: 69
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492e8de35db8ac990800000000000000
+      internalID: -7364920492612328812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_123
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 18
+        width: 75
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929820791910d5bf0800000000000000
+      internalID: -334109072540137175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_124
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 19
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeaa031f2b0421940800000000000000
+      internalID: 5265342051644386030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_125
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 19
+        width: 83
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805071f3d0bc14680800000000000000
+      internalID: -8772507341387528952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_126
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 19
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508db341f8d3f0750800000000000000
+      internalID: 6273300490679474181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_127
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 19
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1cc3e7b396acbb0800000000000000
+      internalID: -4915000339079577177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_128
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 19
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3249b4a659098120800000000000000
+      internalID: 2416472942796423742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_129
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 19
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38284627f6aaa480800000000000000
+      internalID: -8887107334232856515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_130
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 19
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7d0c38e57630580800000000000000
+      internalID: -8862125986099963973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_131
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 19
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f837b09b0f89b60800000000000000
+      internalID: 7753211436070047609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_132
+      rect:
+        serializedVersion: 2
+        x: 3047
+        y: 19
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012a41eee35c5b250800000000000000
+      internalID: 5959886555967693328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_133
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 19
+        width: 83
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfb91c1d3cd65f70800000000000000
+      internalID: 9175763445836529595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_idle1_png_1354836029_134
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 19
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad0c6f925323e370800000000000000
+      internalID: 8350556971843980706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
