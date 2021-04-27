@@ -1,11 +1,9 @@
 fileFormatVersion: 2
-guid: 278c457a83c7b41569e2f8d2d3abab72
+guid: 9a10e477b409d4bd8bb7815c0bfca387
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences:
-  - quitGameButtonSound: {instanceID: 0}
-  - startButtonSound: {instanceID: 0}
+  defaultReferences: []
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

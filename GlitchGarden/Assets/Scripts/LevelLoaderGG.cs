@@ -57,6 +57,7 @@ public class LevelLoaderGG : MonoBehaviour
     {
         Debug.Log("Great jooooorb!");
         AudioSource.PlayClipAtPoint(startButtonSound, Camera.main.transform.position, startButtonVolume);
+        StartCoroutine(LoadNextScene());
     }
 
     public void QuitButtonPressed()
