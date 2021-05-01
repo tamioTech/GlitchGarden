@@ -561,3 +561,812 @@ System memory in use after: 166.5 MB.
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2339.
 Total: 2.372845 ms (FindLiveObjects: 0.288917 ms CreateObjectMapping: 0.072201 ms MarkObjects: 1.866798 ms  DeleteObjects: 0.142772 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001321 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.235 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.0 MB.
+System memory in use after: 167.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2342.
+Total: 2.875973 ms (FindLiveObjects: 0.305425 ms CreateObjectMapping: 0.100377 ms MarkObjects: 2.321557 ms  DeleteObjects: 0.146365 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3393.557507 seconds.
+  path: Assets/Sprites/Spritesheets/Not being used/Cactus Idle.png
+  artifactKey: Guid(c35a97bae57d14d26bad8f007ae8004f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Spritesheets/Not being used/Cactus Idle.png using Guid(c35a97bae57d14d26bad8f007ae8004f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c28f98a1be71984f1ef23402bd51e386') in 0.630419 seconds
+  Import took 0.635587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.633899 seconds.
+  path: Assets/Sprites/Spritesheets/Not being used/Cactus Looping.png
+  artifactKey: Guid(3cc5fced2539c47ada297707c99cfc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Spritesheets/Not being used/Cactus Looping.png using Guid(3cc5fced2539c47ada297707c99cfc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '792c557580db263e920daf7f84b67e18') in 0.025351 seconds
+  Import took 0.030467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.395261 seconds.
+  path: Assets/Sprites/Spritesheets/Cactus
+  artifactKey: Guid(260833d23323f418bbdacf932c6e4ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Spritesheets/Cactus using Guid(260833d23323f418bbdacf932c6e4ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c431e3867bded2365da770ae78fc4fb') in 0.002032 seconds
+  Import took 0.006577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.805857 seconds.
+  path: Assets/Sprites/Spritesheets/Cactus/Cactus Idle.png
+  artifactKey: Guid(c35a97bae57d14d26bad8f007ae8004f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Spritesheets/Cactus/Cactus Idle.png using Guid(c35a97bae57d14d26bad8f007ae8004f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f0e86eedb1677561d0e78318c4de69d') in 0.011560 seconds
+  Import took 0.016576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.117921 seconds.
+  path: Assets/Sprites/Spritesheets/Cactus/Cactus Idle.png
+  artifactKey: Guid(c35a97bae57d14d26bad8f007ae8004f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Spritesheets/Cactus/Cactus Idle.png using Guid(c35a97bae57d14d26bad8f007ae8004f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0366e0a391286b9696a8158b274061d') in 0.200831 seconds
+  Import took 0.206254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.443763 seconds.
+  path: Assets/Sprites/Spritesheets/Cactus/Cactus_Idle.anim
+  artifactKey: Guid(b0666a640818341dfb39b2f61465e68a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Spritesheets/Cactus/Cactus_Idle.anim using Guid(b0666a640818341dfb39b2f61465e68a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '586ce0a9fc51098227905068aa06cc3e') in 0.009272 seconds
+  Import took 0.014747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.649025 seconds.
+  path: Assets/Animations/Cactus_Idle.controller
+  artifactKey: Guid(51035994b98654d5eb050b7bfe7b6beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Cactus_Idle.controller using Guid(51035994b98654d5eb050b7bfe7b6beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb9bca0a7fb559b5feaa734f23bef134') in 0.181691 seconds
+  Import took 0.186482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1224.604281 seconds.
+  path: Assets/Animations/Lizard.controller
+  artifactKey: Guid(55463ae5560bf40c8ba918dbc733a0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Lizard.controller using Guid(55463ae5560bf40c8ba918dbc733a0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cdea0a12db3fdaabf4e66666cb2dee7') in 0.011718 seconds
+  Import took 0.028624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.217031 seconds.
+  path: Assets/Animations/Lizard_Jump.anim
+  artifactKey: Guid(be5dc083ea2a0417584c5f8eebc2ed55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Lizard_Jump.anim using Guid(be5dc083ea2a0417584c5f8eebc2ed55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7449dea5a34241bbd88cf0728e1fa6e6') in 0.006739 seconds
+  Import took 0.012717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008614 seconds.
+  path: Assets/Animations/Lizard_Jump.anim
+  artifactKey: Guid(be5dc083ea2a0417584c5f8eebc2ed55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Lizard_Jump.anim using Guid(be5dc083ea2a0417584c5f8eebc2ed55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7449dea5a34241bbd88cf0728e1fa6e6') in 0.005377 seconds
+  Import took 0.010008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.584084 seconds.
+  path: Assets/Animations/Trophy.controller
+  artifactKey: Guid(2e5cf7c7516284b1581ca5cbcbfe0e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Trophy.controller using Guid(2e5cf7c7516284b1581ca5cbcbfe0e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a156fc491a52612fe6d9e797da9666a1') in 0.009064 seconds
+  Import took 0.014353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 176.064377 seconds.
+  path: Assets/Animations/Cactus_Idle.controller
+  artifactKey: Guid(51035994b98654d5eb050b7bfe7b6beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Cactus_Idle.controller using Guid(51035994b98654d5eb050b7bfe7b6beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57041010712f8b09d3a9e074ab92a07d') in 0.006712 seconds
+  Import took 0.010701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000738 seconds.
+  path: Assets/Animations/Cactus_Idle.controller
+  artifactKey: Guid(51035994b98654d5eb050b7bfe7b6beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Cactus_Idle.controller using Guid(51035994b98654d5eb050b7bfe7b6beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57041010712f8b09d3a9e074ab92a07d') in 0.005134 seconds
+  Import took 0.008741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 151.325812 seconds.
+  path: Assets/Animations/Cactus_Idle.controller
+  artifactKey: Guid(51035994b98654d5eb050b7bfe7b6beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Cactus_Idle.controller using Guid(51035994b98654d5eb050b7bfe7b6beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c890ef463a0018793da83f8e44e01dec') in 0.008903 seconds
+  Import took 0.015250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.808105 seconds.
+  path: Assets/Animations/TrophyBaseSpin.controller
+  artifactKey: Guid(04852451773e04fdf8acacf8136e1a1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/TrophyBaseSpin.controller using Guid(04852451773e04fdf8acacf8136e1a1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a60e5711a719c6ce7ba3d0c604096b3') in 0.007294 seconds
+  Import took 0.012890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.953941 seconds.
+  path: Assets/Animations/Lizard_Walking.anim
+  artifactKey: Guid(ea22e230ad13049f4b05a27034e0e4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Lizard_Walking.anim using Guid(ea22e230ad13049f4b05a27034e0e4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af8b8200e05061adc402277b004edd78') in 0.008787 seconds
+  Import took 0.013808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.333535 seconds.
+  path: Assets/Animations/TrophyBounce.anim
+  artifactKey: Guid(ba1e5a58fc0b04841b7a2cf1f2d1baab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/TrophyBounce.anim using Guid(ba1e5a58fc0b04841b7a2cf1f2d1baab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e3d7f4b9b8154ffe434ea15d06c21be') in 0.006783 seconds
+  Import took 0.011681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007087 seconds.
+  path: Assets/Animations/TrophyBounce.anim
+  artifactKey: Guid(ba1e5a58fc0b04841b7a2cf1f2d1baab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/TrophyBounce.anim using Guid(ba1e5a58fc0b04841b7a2cf1f2d1baab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e3d7f4b9b8154ffe434ea15d06c21be') in 0.006645 seconds
+  Import took 0.011660 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001935 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.384 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 176.2 MB.
+System memory in use after: 176.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2353.
+Total: 2.671402 ms (FindLiveObjects: 0.300792 ms CreateObjectMapping: 0.078938 ms MarkObjects: 2.147485 ms  DeleteObjects: 0.142294 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002923 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.308 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 176.5 MB.
+System memory in use after: 176.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2356.
+Total: 2.742596 ms (FindLiveObjects: 0.230851 ms CreateObjectMapping: 0.071622 ms MarkObjects: 2.299217 ms  DeleteObjects: 0.138883 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001745 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.314 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 176.1 MB.
+System memory in use after: 176.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2359.
+Total: 2.524817 ms (FindLiveObjects: 0.323045 ms CreateObjectMapping: 0.099029 ms MarkObjects: 1.964301 ms  DeleteObjects: 0.136033 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 179.125856 seconds.
+  path: Assets/Sprites/Spritesheets/Cactus/Cactus Looping.png
+  artifactKey: Guid(3cc5fced2539c47ada297707c99cfc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Spritesheets/Cactus/Cactus Looping.png using Guid(3cc5fced2539c47ada297707c99cfc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3edd88c0547f4b77358914e91e5a931c') in 0.096330 seconds
+  Import took 0.101950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.856691 seconds.
+  path: Assets/Sprites/Spritesheets/Cactus/Cactus Looping.png
+  artifactKey: Guid(3cc5fced2539c47ada297707c99cfc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Spritesheets/Cactus/Cactus Looping.png using Guid(3cc5fced2539c47ada297707c99cfc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06625c066689078cc75c99da24a51100') in 0.625939 seconds
+  Import took 0.661884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.427847 seconds.
+  path: Assets/Sprites/Spritesheets/Cactus/Cactus Looping.png
+  artifactKey: Guid(3cc5fced2539c47ada297707c99cfc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Spritesheets/Cactus/Cactus Looping.png using Guid(3cc5fced2539c47ada297707c99cfc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e01353387659f827dfd2386ae994cf3') in 0.327862 seconds
+  Import took 0.335288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.975992 seconds.
+  path: Assets/Sprites/Spritesheets/Cactus/Cactus_Looping.anim
+  artifactKey: Guid(00b9c0c0b96f14d509f4957a705190aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Spritesheets/Cactus/Cactus_Looping.anim using Guid(00b9c0c0b96f14d509f4957a705190aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f65bcdc8ad18a9856f5a729bd54af0b7') in 0.015057 seconds
+  Import took 0.019977 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001326 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.409 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 177.3 MB.
+System memory in use after: 177.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2363.
+Total: 3.165890 ms (FindLiveObjects: 0.411989 ms CreateObjectMapping: 0.165937 ms MarkObjects: 2.432621 ms  DeleteObjects: 0.153301 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 164.049255 seconds.
+  path: Assets/Animations/Cactus_Looping.controller
+  artifactKey: Guid(e1c52fd9d481a4bdba33885728603711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Cactus_Looping.controller using Guid(e1c52fd9d481a4bdba33885728603711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fa10e1ea23e9fc6058fb369c0e5fd49') in 0.022279 seconds
+  Import took 0.027487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.621657 seconds.
+  path: Assets/Prefabs/Cactus.prefab
+  artifactKey: Guid(e5a68a520e4f941c2958cab7fabe49b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Cactus.prefab using Guid(e5a68a520e4f941c2958cab7fabe49b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Cactus_Looping) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:635)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:601)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+The Animator Controller (Cactus_Looping) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:590)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:604)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+ -> (artifact id: '5be7adfb8d1dc01a1322cac65a588751') in 0.119564 seconds
+  Import took 0.124775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.200036 seconds.
+  path: Assets/Sprites/Spritesheets/Not being used/Weird Yellow Thing Walk.png
+  artifactKey: Guid(654cc20dc73c840508c83ff990e92e22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Spritesheets/Not being used/Weird Yellow Thing Walk.png using Guid(654cc20dc73c840508c83ff990e92e22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3854b18a14aab5d3c719a655752935bb') in 0.037166 seconds
+  Import took 0.041311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026253 seconds.
+  path: Assets/Sprites/Spritesheets/Not being used/Weird Yellow Thing Walk.png
+  artifactKey: Guid(654cc20dc73c840508c83ff990e92e22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Spritesheets/Not being used/Weird Yellow Thing Walk.png using Guid(654cc20dc73c840508c83ff990e92e22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3854b18a14aab5d3c719a655752935bb') in 0.011790 seconds
+  Import took 0.017016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.299243 seconds.
+  path: Assets/Sprites/Spritesheets/Not being used/Scarecrow Standing.png
+  artifactKey: Guid(4e3055f21c065408186b89940a04a4c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Spritesheets/Not being used/Scarecrow Standing.png using Guid(4e3055f21c065408186b89940a04a4c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fc34d2a695b8c4608613fa5716f5833') in 0.024085 seconds
+  Import took 0.028765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.518065 seconds.
+  path: Assets/Sprites/Spritesheets/Not being used/Jabba Walking.png
+  artifactKey: Guid(03c94114e00a54afeb7f02da5031f41a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Spritesheets/Not being used/Jabba Walking.png using Guid(03c94114e00a54afeb7f02da5031f41a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17d3b8663a5c5e3c838c908d5e722dde') in 0.023290 seconds
+  Import took 0.027818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.977453 seconds.
+  path: Assets/Sprites/Spritesheets/Not being used/Gravestone.png
+  artifactKey: Guid(745b5328c42194ff1a4ce0af601aa87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Spritesheets/Not being used/Gravestone.png using Guid(745b5328c42194ff1a4ce0af601aa87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4273864cbb9089a492dd0dfeca05ddbb') in 0.015067 seconds
+  Import took 0.020859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.559560 seconds.
+  path: Assets/Sprites/Spritesheets/Not being used/Gnome Idle.png
+  artifactKey: Guid(4b8407efbb183460e92a8b39b437b0c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Spritesheets/Not being used/Gnome Idle.png using Guid(4b8407efbb183460e92a8b39b437b0c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a27f78efba6bd2b738d8a8fd7af5b87b') in 0.014708 seconds
+  Import took 0.019945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.457158 seconds.
+  path: Assets/Sprites/Spritesheets/Not being used/Bundle Of Joy Walking.png
+  artifactKey: Guid(9c633acdecb4040379e5bf4772aa7e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Spritesheets/Not being used/Bundle Of Joy Walking.png using Guid(9c633acdecb4040379e5bf4772aa7e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dca0e8b1a86735a4dbc76f21b32c231c') in 0.012494 seconds
+  Import took 0.017504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004789 seconds.
+  path: Assets/Sprites/Spritesheets/Not being used/Bundle Of Joy Walking.png
+  artifactKey: Guid(9c633acdecb4040379e5bf4772aa7e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Spritesheets/Not being used/Bundle Of Joy Walking.png using Guid(9c633acdecb4040379e5bf4772aa7e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dca0e8b1a86735a4dbc76f21b32c231c') in 0.015427 seconds
+  Import took 0.019090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.924894 seconds.
+  path: Assets/Sprites/Spritesheets/Not being used/Batterfly Flying.png
+  artifactKey: Guid(5384bbbdc9cd3477c93d32cc52f6eec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Spritesheets/Not being used/Batterfly Flying.png using Guid(5384bbbdc9cd3477c93d32cc52f6eec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4df5feacec151d17f8859decdebd8aa') in 0.015054 seconds
+  Import took 0.020457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.324768 seconds.
+  path: Assets/Sprites/Spritesheets/Not being used/Axe.png
+  artifactKey: Guid(88c77a5e7fe264ae7ba43b04c74b54d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Spritesheets/Not being used/Axe.png using Guid(88c77a5e7fe264ae7ba43b04c74b54d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94adea0315612ec47fb8652911568599') in 0.011301 seconds
+  Import took 0.015576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 317.497062 seconds.
+  path: Assets/Animations/Cactus_Idle.anim
+  artifactKey: Guid(b0666a640818341dfb39b2f61465e68a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Cactus_Idle.anim using Guid(b0666a640818341dfb39b2f61465e68a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b904980a164926e2fdd814dbeaa1da6') in 0.012928 seconds
+  Import took 0.018269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.185018 seconds.
+  path: Assets/Animations/Cactus_Idle.controller
+  artifactKey: Guid(51035994b98654d5eb050b7bfe7b6beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Cactus_Idle.controller using Guid(51035994b98654d5eb050b7bfe7b6beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f38d71674e8ac3dd1027b8e1dc46f1b') in 0.007242 seconds
+  Import took 0.012459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005585 seconds.
+  path: Assets/Animations/Cactus_Idle.controller
+  artifactKey: Guid(51035994b98654d5eb050b7bfe7b6beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Cactus_Idle.controller using Guid(51035994b98654d5eb050b7bfe7b6beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f38d71674e8ac3dd1027b8e1dc46f1b') in 0.006126 seconds
+  Import took 0.011636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.258654 seconds.
+  path: Assets/Animations/Cactus_Looping.anim
+  artifactKey: Guid(00b9c0c0b96f14d509f4957a705190aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Cactus_Looping.anim using Guid(00b9c0c0b96f14d509f4957a705190aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93d349c8f5c3b4e815f0978936e8e165') in 0.007114 seconds
+  Import took 0.011358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012028 seconds.
+  path: Assets/Animations/Cactus_Looping.anim
+  artifactKey: Guid(00b9c0c0b96f14d509f4957a705190aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Cactus_Looping.anim using Guid(00b9c0c0b96f14d509f4957a705190aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93d349c8f5c3b4e815f0978936e8e165') in 0.005797 seconds
+  Import took 0.010223 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002586 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.337 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 178.1 MB.
+System memory in use after: 178.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2383.
+Total: 2.946563 ms (FindLiveObjects: 0.314062 ms CreateObjectMapping: 0.185240 ms MarkObjects: 2.315611 ms  DeleteObjects: 0.129851 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.245000 seconds.
+  path: Assets/Animations/Cactus_Attacking.anim
+  artifactKey: Guid(00b9c0c0b96f14d509f4957a705190aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Cactus_Attacking.anim using Guid(00b9c0c0b96f14d509f4957a705190aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c745195093f9115e2a7dc70fd936819d') in 0.018079 seconds
+  Import took 0.022344 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000761 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.287 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 177.6 MB.
+System memory in use after: 177.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2386.
+Total: 2.525409 ms (FindLiveObjects: 0.274432 ms CreateObjectMapping: 0.086076 ms MarkObjects: 2.027949 ms  DeleteObjects: 0.135004 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 169.054238 seconds.
+  path: Assets/Animations/Cactus_Looping.controller
+  artifactKey: Guid(e1c52fd9d481a4bdba33885728603711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Cactus_Looping.controller using Guid(e1c52fd9d481a4bdba33885728603711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39a4fe15636f033a6e359c9ae1c1b066') in 0.024384 seconds
+  Import took 0.029282 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001200 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.257 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 178.1 MB.
+System memory in use after: 178.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2389.
+Total: 2.462884 ms (FindLiveObjects: 0.326852 ms CreateObjectMapping: 0.096590 ms MarkObjects: 1.902187 ms  DeleteObjects: 0.134877 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.316064 seconds.
+  path: Assets/Animations/Cactus.controller
+  artifactKey: Guid(51035994b98654d5eb050b7bfe7b6beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Cactus.controller using Guid(51035994b98654d5eb050b7bfe7b6beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5593c1194d523df51095e8e4185386ad') in 0.020608 seconds
+  Import took 0.025529 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001167 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.280 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 178.6 MB.
+System memory in use after: 178.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2392.
+Total: 3.476094 ms (FindLiveObjects: 0.421312 ms CreateObjectMapping: 0.108592 ms MarkObjects: 2.764193 ms  DeleteObjects: 0.179932 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000784 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.313 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 178.9 MB.
+System memory in use after: 178.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2395.
+Total: 2.771609 ms (FindLiveObjects: 0.291451 ms CreateObjectMapping: 0.095961 ms MarkObjects: 2.247452 ms  DeleteObjects: 0.134307 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 280.083172 seconds.
+  path: Assets/Prefabs/Cactus.prefab
+  artifactKey: Guid(e5a68a520e4f941c2958cab7fabe49b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Cactus.prefab using Guid(e5a68a520e4f941c2958cab7fabe49b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f99407fe0416798aba92f4f17d39259') in 0.111971 seconds
+  Import took 0.117344 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002261 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.365 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 178.6 MB.
+System memory in use after: 178.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2399.
+Total: 2.766778 ms (FindLiveObjects: 0.315184 ms CreateObjectMapping: 0.153619 ms MarkObjects: 2.167902 ms  DeleteObjects: 0.128441 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 124.485085 seconds.
+  path: Assets/Animations/Attackers
+  artifactKey: Guid(8dd180b9bbf3b43e3af8aa2f3e42a2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Attackers using Guid(8dd180b9bbf3b43e3af8aa2f3e42a2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb0a2703491f40c52458a70e85431b49') in 0.006944 seconds
+  Import took 0.010831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.372311 seconds.
+  path: Assets/Animations/Attackers 1
+  artifactKey: Guid(97539535bd9fa46ec9f885b4bab68176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Attackers 1 using Guid(97539535bd9fa46ec9f885b4bab68176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '466ee9bc646edb190333092e0a2a2d91') in 0.002537 seconds
+  Import took 0.007302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.315535 seconds.
+  path: Assets/Animations/Defenders
+  artifactKey: Guid(97539535bd9fa46ec9f885b4bab68176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Defenders using Guid(97539535bd9fa46ec9f885b4bab68176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ac04deb084a2e893bfa74f4f537c423') in 0.001802 seconds
+  Import took 0.006411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.678850 seconds.
+  path: Assets/Sprites/Spritesheets/Cactus/Cactus_Attacking.png
+  artifactKey: Guid(3cc5fced2539c47ada297707c99cfc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Spritesheets/Cactus/Cactus_Attacking.png using Guid(3cc5fced2539c47ada297707c99cfc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db2076d5da816922e0ad0a2d9084f851') in 0.367710 seconds
+  Import took 0.372519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.420555 seconds.
+  path: Assets/Sprites/Spritesheets/Cactus/Cactus_Attacking.png
+  artifactKey: Guid(3cc5fced2539c47ada297707c99cfc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Spritesheets/Cactus/Cactus_Attacking.png using Guid(3cc5fced2539c47ada297707c99cfc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fddaee153c5d2b9c66b7feaf2013f379') in 0.346668 seconds
+  Import took 0.352855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 125.133780 seconds.
+  path: Assets/Sprites/Spritesheets/Cactus/Cactus_Attacking.png
+  artifactKey: Guid(3cc5fced2539c47ada297707c99cfc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Spritesheets/Cactus/Cactus_Attacking.png using Guid(3cc5fced2539c47ada297707c99cfc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68bd39ee4b5e3af5a53cda5c7bb6b031') in 0.340366 seconds
+  Import took 0.345921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.875191 seconds.
+  path: Assets/Sprites/Spritesheets/Cactus/Cactus_Attacking.anim
+  artifactKey: Guid(efc1d05773a654bad81e4061a3f7fbf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Spritesheets/Cactus/Cactus_Attacking.anim using Guid(efc1d05773a654bad81e4061a3f7fbf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa81e82bbf3b5207ab58bbc1f383b5a2') in 0.009678 seconds
+  Import took 0.014419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.132759 seconds.
+  path: Assets/Sprites/Spritesheets/Cactus/Cactus_Idle.anim
+  artifactKey: Guid(3ca0668336eae496ba11a92f9fd4958c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Spritesheets/Cactus/Cactus_Idle.anim using Guid(3ca0668336eae496ba11a92f9fd4958c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c3cf00a8f05026c62f2b77bf276fb1b') in 0.009074 seconds
+  Import took 0.014185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.819606 seconds.
+  path: Assets/Animations/Defenders/Cactus.controller
+  artifactKey: Guid(d6c49b7dcdb4740818312efe087c4581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Defenders/Cactus.controller using Guid(d6c49b7dcdb4740818312efe087c4581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a8676399067369ae54dec85e310c59e') in 0.010851 seconds
+  Import took 0.015402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000738 seconds.
+  path: Assets/Animations/Defenders/Cactus.controller
+  artifactKey: Guid(d6c49b7dcdb4740818312efe087c4581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Defenders/Cactus.controller using Guid(d6c49b7dcdb4740818312efe087c4581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a8676399067369ae54dec85e310c59e') in 0.007065 seconds
+  Import took 0.010856 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001495 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.392 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 180.5 MB.
+System memory in use after: 180.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2403.
+Total: 3.042739 ms (FindLiveObjects: 0.331972 ms CreateObjectMapping: 0.095660 ms MarkObjects: 2.453346 ms  DeleteObjects: 0.159743 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001123 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.266 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 180.9 MB.
+System memory in use after: 180.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2406.
+Total: 2.660592 ms (FindLiveObjects: 0.234132 ms CreateObjectMapping: 0.072862 ms MarkObjects: 2.211376 ms  DeleteObjects: 0.140406 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001413 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.352 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 180.4 MB.
+System memory in use after: 180.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2409.
+Total: 2.465997 ms (FindLiveObjects: 0.295040 ms CreateObjectMapping: 0.076005 ms MarkObjects: 1.954549 ms  DeleteObjects: 0.138430 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007119 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.437 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 180.9 MB.
+System memory in use after: 180.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2412.
+Total: 3.248398 ms (FindLiveObjects: 0.567292 ms CreateObjectMapping: 0.121386 ms MarkObjects: 2.410964 ms  DeleteObjects: 0.145245 ms)
+
