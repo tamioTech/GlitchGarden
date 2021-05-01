@@ -7,7 +7,7 @@ public class Attacker : MonoBehaviour
 
 
     [SerializeField] [Range(0f, 5f)] float walkSpeed;
-    float currentSpeed = 0f;
+    float currentSpeed;
 
     void Update()
     {
@@ -17,6 +17,13 @@ public class Attacker : MonoBehaviour
     public void SetMovementSpeed(float speed)
     {
         currentSpeed = speed;
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        Debug.Log("Attacker Destroyed!");
+        Destroy(gameObject);
+        
     }
 
 }
