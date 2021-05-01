@@ -10,6 +10,7 @@ public class AttackerSpawner : MonoBehaviour
     [SerializeField] Attacker attackerPrefab;
 
     bool spawn = true;
+    
 
     // Start is called before the first frame update
     IEnumerator Start()
