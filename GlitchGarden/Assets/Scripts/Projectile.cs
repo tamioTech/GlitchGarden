@@ -7,6 +7,7 @@ public class Projectile : MonoBehaviour
 
     [SerializeField] float projectileSpeed = 7.0f;
     [SerializeField] float spinSpeed = 500.0f;
+    [SerializeField] float damageAmount = 50;
 
 
     void Update()
@@ -17,8 +18,13 @@ public class Projectile : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D otherCollider)
     {
-        Debug.Log("Hit: " + otherCollider.name);
-        Destroy(gameObject);
+        Debug.Log("Zucchini hit: " + otherCollider.name);
+        
+
+        //reduce health
+        var health = otherCollider.GetComponent<Health>();
+        health.DealDamage(damageAmount);
+        Destroy(otherCollider.gameObject);
 
     }
 }
