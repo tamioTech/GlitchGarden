@@ -10,7 +10,7 @@ public class Shooter : MonoBehaviour
 
     public void Fire()
     {
-        Instantiate(projectile, gun.transform.position, Quaternion.identity);
+        Instantiate(projectile, transform.position, Quaternion.identity);
     }
 
 }

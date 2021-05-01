@@ -19,9 +19,9 @@ public class Attacker : MonoBehaviour
         currentSpeed = speed;
     }
 
-    private void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerEnter2D(Collider2D otherCollider)
     {
-        Debug.Log("Attacker Destroyed!");
+        Debug.Log("Attacker destroyed by: " + otherCollider);
         Destroy(gameObject);
         
     }
