@@ -22,7 +22,8 @@ public class Attacker : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D otherCollider)
     {
         Debug.Log("Attacker destroyed by: " + otherCollider);
-        Destroy(gameObject);
+        //Destroy(gameObject);
+        
         
     }
 

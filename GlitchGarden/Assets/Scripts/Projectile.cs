@@ -22,9 +22,16 @@ public class Projectile : MonoBehaviour
         
 
         //reduce health
-        //var health = otherCollider.GetComponent<Health>();
-        //health.DealDamage(damageAmount);
-        //Destroy(otherCollider.gameObject);
+        var health = otherCollider.GetComponent<Health>();
+        var attacker = otherCollider.GetComponent<Attacker>();
+
+        if (attacker && health)
+        {
+            health.DealDamage(damageAmount);
+            Destroy(gameObject);
+        }
+
+        
 
     }
 }

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 75dd5c63b897b42b8b4d34abe90d247a
+guid: c390e0c7226474cc881472b96edfdb11
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
-  - deathVFX: {fileID: 1839011795250153353, guid: dc294fa2b4b704d5aa974ed641547a8c, type: 3}
+  - cactus: {fileID: 174771365219230014, guid: e5a68a520e4f941c2958cab7fabe49b0, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

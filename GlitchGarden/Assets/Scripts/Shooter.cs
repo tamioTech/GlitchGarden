@@ -10,7 +10,14 @@ public class Shooter : MonoBehaviour
 
     public void Fire()
     {
-        Instantiate(projectile, transform.position, Quaternion.identity);
+        
+            Instantiate(projectile, transform.position, Quaternion.identity);
+        
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        Destroy(gameObject);
     }
 
 }
