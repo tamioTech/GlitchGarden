@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 174771365219229955}
   - component: {fileID: -1381542323609848299}
   - component: {fileID: 9211844023257464492}
+  - component: {fileID: 9161318950776159457}
   m_Layer: 0
   m_Name: Cactus
   m_TagString: Untagged
@@ -135,6 +136,19 @@ CapsuleCollider2D:
   m_Offset: {x: -0.027953308, y: -0.04257536}
   m_Size: {x: 0.45083904, y: 1.0098741}
   m_Direction: 0
+--- !u!114 &9161318950776159457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 174771365219230014}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f1bc108531df4f1c92e04d89275d0b7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  starCost: 100
 --- !u!1001 &1903745795048839167
 PrefabInstance:
   m_ObjectHideFlags: 0
