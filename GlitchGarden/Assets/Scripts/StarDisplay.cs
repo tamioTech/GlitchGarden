@@ -27,9 +27,15 @@ public class StarDisplay : MonoBehaviour
 
     public void SpendStars(int amount)
     {
-        if (amount >= amount)
+        if (stars >= amount)
         {
             stars -= amount;
             UpdateDisplay();
         }
+    }
+
+    public bool HaveEnoughStars(int defenderCost)
+    {
+        return stars >= defenderCost;
+    }
 }
