@@ -28,6 +28,7 @@ public class AttackerSpawner : MonoBehaviour
             attackerPrefab, transform.position, transform.rotation
             ) as Attacker;
         newAttacker.transform.parent = transform;
+        
     }
 
     
