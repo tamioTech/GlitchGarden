@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 7131661090613210937}
   - component: {fileID: 3229280280724806252}
   - component: {fileID: 2314888746896183735}
+  - component: {fileID: 2848764943984753213}
   m_Layer: 0
   m_Name: Gnome
   m_TagString: Untagged
@@ -97,6 +98,20 @@ CapsuleCollider2D:
   m_Offset: {x: 0.041051745, y: 0}
   m_Size: {x: 0.3876059, y: 0.64892596}
   m_Direction: 0
+--- !u!114 &2848764943984753213
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7131661090613210936}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75dd5c63b897b42b8b4d34abe90d247a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 50
+  deathVFX: {fileID: 0}
 --- !u!1 &7131661091680390282
 GameObject:
   m_ObjectHideFlags: 0
