@@ -9,25 +9,6 @@ using UnityEngine.SceneManagement;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 public class LevelLoaderGG : MonoBehaviour
 {
 
@@ -53,11 +34,24 @@ public class LevelLoaderGG : MonoBehaviour
         SceneManager.LoadScene(scenePosition + 1);
     }
 
+    IEnumerator LoadMainMenu()
+    {
+        yield return new WaitForSeconds(timeToWait);
+        SceneManager.LoadScene(0);
+    }
+
     public void StartButtonPushed()
     {
         Debug.Log("Great jooooorb!");
         AudioSource.PlayClipAtPoint(startButtonSound, Camera.main.transform.position, startButtonVolume);
         StartCoroutine(LoadNextScene());
+    }
+
+    public void MainMenuButtonPushed()
+    {
+        Debug.Log("main menu button pushed");
+        SceneManager.LoadScene(0);
+        //StartCoroutine(LoadMainMenu());
     }
 
     public void QuitButtonPressed()

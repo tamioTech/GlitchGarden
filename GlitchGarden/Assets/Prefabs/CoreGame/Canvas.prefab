@@ -357,7 +357,7 @@ GameObject:
   - component: {fileID: 3854919678680814929}
   - component: {fileID: 5733900065126917758}
   - component: {fileID: 82179470224817378}
-  - component: {fileID: 3543777832619696013}
+  - component: {fileID: 3377892533273659121}
   m_Layer: 5
   m_Name: Base Health Text
   m_TagString: Untagged
@@ -426,7 +426,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: 9999
---- !u!114 &3543777832619696013
+--- !u!114 &3377892533273659121
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -435,7 +435,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 7679785539967156358}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f3ec3f927b09d48ab9e7063d9f00b35d, type: 3}
+  m_Script: {fileID: 11500000, guid: 65aa93b41c71f46c8a28b1586ee79a1d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseHealth: 10
+  baseHealth: 12

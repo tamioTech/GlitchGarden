@@ -8,12 +8,7 @@ public class Health : MonoBehaviour
 
     [SerializeField] float health = 100f;
     [SerializeField] GameObject deathVFX;
-    [SerializeField] int baseHealth = 5;
 
-    public void DealBaseDamage(int damage)
-    {
-        baseHealth -= damage;
-    }
 
     public void DealDamage(float damage)
     {
@@ -28,11 +23,6 @@ public class Health : MonoBehaviour
         }
     }
 
-    public int GetBaseHealth()
-    {
-        Debug.Log("basehealth: " + baseHealth);
-        return baseHealth;
-    }
 
     public float GetHealth()
     {

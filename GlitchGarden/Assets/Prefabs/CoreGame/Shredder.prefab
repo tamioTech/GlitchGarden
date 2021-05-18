@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 7165778223573857563}
   - component: {fileID: 7165778223573857564}
   - component: {fileID: 7165778223573857565}
-  - component: {fileID: 7165778223573857562}
   m_Layer: 0
   m_Name: ShredderBoxRight
   m_TagString: Untagged
@@ -123,21 +122,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ffe4fca9b2f904ec2bb763c159acb485, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &7165778223573857562
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7165778223573857567}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 75dd5c63b897b42b8b4d34abe90d247a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  health: 100
-  deathVFX: {fileID: 0}
-  baseHealth: 5
 --- !u!1 &7165778223973797090
 GameObject:
   m_ObjectHideFlags: 0
@@ -181,7 +165,7 @@ GameObject:
   - component: {fileID: 7165778224268948660}
   - component: {fileID: 7165778224268948657}
   - component: {fileID: 7165778224268948658}
-  - component: {fileID: 2508128696046694773}
+  - component: {fileID: 6180459861768672729}
   m_Layer: 0
   m_Name: ShredderBoxLeft
   m_TagString: Untagged
@@ -280,7 +264,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &2508128696046694773
+--- !u!114 &6180459861768672729
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -289,7 +273,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 7165778224268948661}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f3ec3f927b09d48ab9e7063d9f00b35d, type: 3}
+  m_Script: {fileID: 11500000, guid: 65aa93b41c71f46c8a28b1586ee79a1d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseHealth: 10
+  baseHealth: 12
