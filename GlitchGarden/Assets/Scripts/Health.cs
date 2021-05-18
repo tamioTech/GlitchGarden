@@ -8,6 +8,12 @@ public class Health : MonoBehaviour
 
     [SerializeField] float health = 100f;
     [SerializeField] GameObject deathVFX;
+    [SerializeField] int baseHealth = 5;
+
+    public void DealBaseDamage(int damage)
+    {
+        baseHealth -= damage;
+    }
 
     public void DealDamage(float damage)
     {
@@ -20,6 +26,12 @@ public class Health : MonoBehaviour
             Destroy(gameObject);
 
         }
+    }
+
+    public int GetBaseHealth()
+    {
+        Debug.Log("basehealth: " + baseHealth);
+        return baseHealth;
     }
 
     public float GetHealth()
@@ -41,11 +53,3 @@ public class Health : MonoBehaviour
     }
 
 }
-
-
-
-//FindObjectOfType<GameSession>().AddToScore(scoreValue);
-//Destroy(gameObject);
-//GameObject explosion = Instantiate(deathVFX, transform.position, transform.rotation);
-//Destroy(explosion, durationOfExplosion);
-//AudioSource.PlayClipAtPoint(deathSFX, Camera.main.transform.position, deathSoundVolume);

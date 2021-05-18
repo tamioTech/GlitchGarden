@@ -177,7 +177,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b125077dd0c74629bfcdabc0038dea5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectile: {fileID: 1446707376658555562, guid: 386b180232e3f44d9986d468f12f678d, type: 3}
+  projectile: {fileID: 8699795952810202903, guid: d62d43974d2664a9787e30e3cf81132f, type: 3}
   gun: {fileID: 5523811715036088698}
 --- !u!114 &787943691163429419
 MonoBehaviour:

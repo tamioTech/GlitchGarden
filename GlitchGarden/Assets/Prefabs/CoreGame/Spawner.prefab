@@ -43,6 +43,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a10e477b409d4bd8bb7815c0bfca387, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minSpawnDelay: 0.46
-  maxSpawnDelay: 2.05
-  attackerPrefab: {fileID: 1530137004103466012, guid: 4fb6ed1bc521d4012bec2d4ff0b85c75, type: 3}
+  minSpawnDelay: 2
+  maxSpawnDelay: 5
+  attackerPrefabArray:
+  - {fileID: 5523377205826729108, guid: 2ba8011b4d1a2412d81205cf31e921f0, type: 3}
+  - {fileID: 1530137004103466012, guid: 4fb6ed1bc521d4012bec2d4ff0b85c75, type: 3}

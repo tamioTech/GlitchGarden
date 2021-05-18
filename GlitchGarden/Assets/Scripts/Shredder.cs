@@ -15,6 +15,8 @@ public class Shredder : MonoBehaviour
             GetComponent<Health>().ReplenishHealth();
         }
 
-        Destroy(collision.gameObject);
+        //GetComponent<BaseHealthDisplay1>().BaseDamaged(1);
+        //Destroy(collision.gameObject);
+        
     }
 }

@@ -107,7 +107,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 200
-  deathVFX: {fileID: 0}
+  deathVFX: {fileID: 7339401766006434519, guid: 8a2aca8a62db04fb3a73dfd479c522c2, type: 3}
 --- !u!114 &800537050414290031
 MonoBehaviour:
   m_ObjectHideFlags: 0
