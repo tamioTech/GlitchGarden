@@ -22,7 +22,8 @@ public class BaseHealthDisplay : MonoBehaviour
     {
         if(baseHealth <= 0)
         {
-            SceneManager.LoadScene("End");
+            FindObjectOfType<LevelController>().LoseLabel();
+            YouLose();
         }
     }
 
@@ -32,11 +33,23 @@ public class BaseHealthDisplay : MonoBehaviour
         baseHealthText.text = baseHealth.ToString();
     }
 
+    IEnumerator YouLose()
+    {
+        yield return new WaitForSeconds(3);
+        SceneManager.LoadScene("End");
+
+    }
+
     public void DamageBase(int damage)
     {
         baseHealth -= damage;
         Debug.Log(baseHealth);
         UpdateDisplay();
+    }
+
+    public int GetBaseHealth()
+    {
+        return baseHealth;
     }
 
 }

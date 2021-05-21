@@ -6,7 +6,7 @@ using UnityEngine;
 public class Health : MonoBehaviour
 {
 
-    [SerializeField] float health = 100f;
+    [SerializeField] float health = 10f;
     [SerializeField] GameObject deathVFX;
 
 

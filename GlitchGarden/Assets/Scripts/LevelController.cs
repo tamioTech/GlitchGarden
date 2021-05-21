@@ -8,10 +8,14 @@ public class LevelController : MonoBehaviour
     int numberOfAttackers = 0;
     bool levelTimerFinished = false;
     [SerializeField] GameObject winLabel;
+    [SerializeField] GameObject loseLabel;
+    int baseHealth;
 
     private void Start()
     {
+        baseHealth = FindObjectOfType<BaseHealthDisplay>().GetBaseHealth();
         winLabel.SetActive(false);
+        loseLabel.SetActive(false);
     }
 
     public void AttackerSpawned()
@@ -24,12 +28,18 @@ public class LevelController : MonoBehaviour
     {
         numberOfAttackers--;
         Debug.Log(numberOfAttackers);
-        if (numberOfAttackers <= 0 && levelTimerFinished)
+        Debug.Log("basehealth: " + baseHealth);
+        if (numberOfAttackers <= 0 && levelTimerFinished && baseHealth > 0)
         {
             Debug.Log("end level now");
             winLabel.SetActive(true);
             FindObjectOfType<LevelLoaderGG>().LevelComplete();
         }
+    }
+
+    public void LoseLabel()
+    {
+        loseLabel.SetActive(true);
     }
 
     public void LevelTimerFinished()
