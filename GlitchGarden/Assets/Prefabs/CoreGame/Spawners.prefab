@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8969499173618135974}
-  - component: {fileID: 8969499172698474760}
+  - component: {fileID: 7074123625882190617}
   m_Layer: 0
   m_Name: Spawner 5
   m_TagString: Untagged
@@ -31,7 +31,7 @@ Transform:
   m_Father: {fileID: 8969499174233151980}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &8969499172698474760
+--- !u!114 &7074123625882190617
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -43,11 +43,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a10e477b409d4bd8bb7815c0bfca387, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minSpawnDelay: 1
-  maxSpawnDelay: 4
+  minSpawnDelay: 0.5
+  maxSpawnDelay: 2
   attackerPrefabArray:
   - {fileID: 5523377205826729108, guid: 2ba8011b4d1a2412d81205cf31e921f0, type: 3}
   - {fileID: 1530137004103466012, guid: 4fb6ed1bc521d4012bec2d4ff0b85c75, type: 3}
+  numberOfAttackers: 10
 --- !u!1 &8969499173264007487
 GameObject:
   m_ObjectHideFlags: 0
@@ -57,7 +58,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8969499173019845506}
-  - component: {fileID: 8969499173264007480}
+  - component: {fileID: 2324904473863205071}
   m_Layer: 0
   m_Name: Spawner 4
   m_TagString: Untagged
@@ -79,7 +80,7 @@ Transform:
   m_Father: {fileID: 8969499174233151980}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &8969499173264007480
+--- !u!114 &2324904473863205071
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -91,11 +92,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a10e477b409d4bd8bb7815c0bfca387, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minSpawnDelay: 1
-  maxSpawnDelay: 4
+  minSpawnDelay: 0.5
+  maxSpawnDelay: 2
   attackerPrefabArray:
   - {fileID: 5523377205826729108, guid: 2ba8011b4d1a2412d81205cf31e921f0, type: 3}
   - {fileID: 1530137004103466012, guid: 4fb6ed1bc521d4012bec2d4ff0b85c75, type: 3}
+  numberOfAttackers: 10
 --- !u!1 &8969499173558968069
 GameObject:
   m_ObjectHideFlags: 0
@@ -144,6 +146,7 @@ MonoBehaviour:
   attackerPrefabArray:
   - {fileID: 5523377205826729108, guid: 2ba8011b4d1a2412d81205cf31e921f0, type: 3}
   - {fileID: 1530137004103466012, guid: 4fb6ed1bc521d4012bec2d4ff0b85c75, type: 3}
+  numberOfAttackers: 10
 --- !u!1 &8969499173809169552
 GameObject:
   m_ObjectHideFlags: 0
@@ -153,7 +156,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8969499173557008447}
-  - component: {fileID: 8969499173809169553}
+  - component: {fileID: 4952502629868799143}
   m_Layer: 0
   m_Name: Spawner 2
   m_TagString: Untagged
@@ -175,7 +178,7 @@ Transform:
   m_Father: {fileID: 8969499174233151980}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &8969499173809169553
+--- !u!114 &4952502629868799143
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -187,11 +190,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a10e477b409d4bd8bb7815c0bfca387, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minSpawnDelay: 1
-  maxSpawnDelay: 4
+  minSpawnDelay: 0.5
+  maxSpawnDelay: 2
   attackerPrefabArray:
   - {fileID: 5523377205826729108, guid: 2ba8011b4d1a2412d81205cf31e921f0, type: 3}
   - {fileID: 1530137004103466012, guid: 4fb6ed1bc521d4012bec2d4ff0b85c75, type: 3}
+  numberOfAttackers: 10
 --- !u!1 &8969499174138328499
 GameObject:
   m_ObjectHideFlags: 0
@@ -201,7 +205,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8969499172819926394}
-  - component: {fileID: 8969499174138328508}
+  - component: {fileID: 6131467479540169642}
   m_Layer: 0
   m_Name: Spawner 3
   m_TagString: Untagged
@@ -223,7 +227,7 @@ Transform:
   m_Father: {fileID: 8969499174233151980}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &8969499174138328508
+--- !u!114 &6131467479540169642
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -235,11 +239,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a10e477b409d4bd8bb7815c0bfca387, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minSpawnDelay: 1
-  maxSpawnDelay: 4
+  minSpawnDelay: 0.5
+  maxSpawnDelay: 2
   attackerPrefabArray:
   - {fileID: 5523377205826729108, guid: 2ba8011b4d1a2412d81205cf31e921f0, type: 3}
   - {fileID: 1530137004103466012, guid: 4fb6ed1bc521d4012bec2d4ff0b85c75, type: 3}
+  numberOfAttackers: 10
 --- !u!1 &8969499174233151971
 GameObject:
   m_ObjectHideFlags: 0
@@ -249,6 +254,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8969499174233151980}
+  - component: {fileID: 8826638066675651506}
   m_Layer: 0
   m_Name: Spawners
   m_TagString: Untagged
@@ -275,3 +281,15 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8826638066675651506
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8969499174233151971}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 185d9800679954e338e2b083e8aee666, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

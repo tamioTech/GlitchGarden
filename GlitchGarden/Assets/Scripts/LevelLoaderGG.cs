@@ -59,5 +59,9 @@ public class LevelLoaderGG : MonoBehaviour
         Debug.Log("Where ya goin' boi!? Mama raised no quitter!");
         AudioSource.PlayClipAtPoint(quitGameButtonSound, Camera.main.transform.position, quitButtonVolume);
     }
+    public void LoadLevel1()
+    {
+        SceneManager.LoadScene(2);
+    }
 
 }

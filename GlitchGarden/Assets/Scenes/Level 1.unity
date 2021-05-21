@@ -123,6 +123,50 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &5106866
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5106868}
+  - component: {fileID: 5106867}
+  m_Layer: 0
+  m_Name: Level Controller
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &5106867
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5106866}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be6ad641c2c8d4bcdb5d3747be6cc037, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  numberOfAttackers: 0
+--- !u!4 &5106868
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5106866}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -735,6 +779,10 @@ PrefabInstance:
       propertyPath: m_AnchorMin.x
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3377892533273659121, guid: a5fd066574cdf41ea9934b16174d0454, type: 3}
+      propertyPath: baseHealth
+      value: 100
+      objectReference: {fileID: 0}
     - target: {fileID: 6678733567279614208, guid: a5fd066574cdf41ea9934b16174d0454, type: 3}
       propertyPath: m_Name
       value: Canvas
@@ -1000,7 +1048,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 7165778223661156213}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ffe4fca9b2f904ec2bb763c159acb485, type: 3}
+  m_Script: {fileID: 11500000, guid: ef937f084c3dc446a85248aafa7fa3c0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!212 &7165778224173237979
@@ -1217,6 +1265,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 954294286}
     m_Modifications:
+    - target: {fileID: 8969499173264007487, guid: 296aa4329b06e42a1ab1a565b4d454c4, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8969499173558968069, guid: 296aa4329b06e42a1ab1a565b4d454c4, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8969499173809169552, guid: 296aa4329b06e42a1ab1a565b4d454c4, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8969499174138328499, guid: 296aa4329b06e42a1ab1a565b4d454c4, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8969499174233151971, guid: 296aa4329b06e42a1ab1a565b4d454c4, type: 3}
       propertyPath: m_Name
       value: Spawners
@@ -1265,5 +1329,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8826638066675651506, guid: 296aa4329b06e42a1ab1a565b4d454c4, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 296aa4329b06e42a1ab1a565b4d454c4, type: 3}

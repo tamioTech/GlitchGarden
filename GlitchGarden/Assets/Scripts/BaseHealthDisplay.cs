@@ -35,7 +35,7 @@ public class BaseHealthDisplay : MonoBehaviour
     public void DamageBase(int damage)
     {
         baseHealth -= damage;
-        Debug.Log(baseHealth);
+        //Debug.Log(baseHealth);
         UpdateDisplay();
     }
 
