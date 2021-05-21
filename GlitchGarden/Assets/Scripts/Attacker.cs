@@ -6,7 +6,15 @@ using UnityEngine;
 public class Attacker : MonoBehaviour
 {
 
+    private void Awake()
+    {
+        FindObjectOfType<LevelController>().AttackerSpawned();
+    }
 
+    private void OnDestroy()
+    {
+        FindObjectOfType<LevelController>().AttackerKilled();
+    }
 
     [SerializeField] [Range(0f, 5f)] float walkSpeed;
     float currentSpeed;

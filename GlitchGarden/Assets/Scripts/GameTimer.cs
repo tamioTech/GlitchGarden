@@ -11,17 +11,13 @@ public class GameTimer : MonoBehaviour
     void Update()
     {
         GetComponent<Slider>().value = Time.timeSinceLevelLoad / levelTime;
-        Debug.Log(GetComponent<Slider>().value);
-        if(GetComponent<Slider>().value >= 1)
+
+        bool timerFinished = (Time.timeSinceLevelLoad >= levelTime);
+        if(timerFinished)
         {
-            Debug.Log("timer finished");
+            FindObjectOfType<LevelController>().LevelTimerFinished();
         }
     }
 
-    private void TimerFinished()
-    {
-        Debug.Log("timer finished");
-        //GetComponent<LevelLoaderGG>().StartCoroutine(load)
-    }
 
 }

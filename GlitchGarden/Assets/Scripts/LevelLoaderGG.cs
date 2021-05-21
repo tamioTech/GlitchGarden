@@ -14,10 +14,13 @@ public class LevelLoaderGG : MonoBehaviour
 
     [SerializeField] AudioClip quitGameButtonSound;
     [SerializeField] AudioClip startButtonSound;
-    [SerializeField] [Range(0,1)] float startButtonVolume = 1.0f;
+    [SerializeField] AudioClip levelCompleteSound;
+    [SerializeField] [Range(0, 1)] float startButtonVolume = 1.0f;
     [SerializeField] [Range(0, 1)] float quitButtonVolume = 1.0f;
+    [SerializeField] [Range(0, 1)] float levelCompleteVolume = 1.0f;
     [SerializeField] int scenePosition;
     [SerializeField] int timeToWait = 3;
+    
 
     void Start ()
     {
@@ -58,6 +61,18 @@ public class LevelLoaderGG : MonoBehaviour
     {
         Debug.Log("Where ya goin' boi!? Mama raised no quitter!");
         AudioSource.PlayClipAtPoint(quitGameButtonSound, Camera.main.transform.position, quitButtonVolume);
+    }
+
+    IEnumerator LevelCompleted()
+    {
+        yield return new WaitForSeconds(3);
+        SceneManager.LoadScene("Level 1");
+    }
+
+    public void LevelComplete()
+    {
+        AudioSource.PlayClipAtPoint(levelCompleteSound, Camera.main.transform.position, levelCompleteVolume);
+        StartCoroutine(LevelCompleted());
     }
 
 }
