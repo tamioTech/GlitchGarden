@@ -12,15 +12,6 @@ public class Attacker : MonoBehaviour
     float currentSpeed;
     GameObject currentTarget;
 
-    private void Awake()
-    {
-        FindObjectOfType<LevelController>().AttackerSpawned();
-    }
-
-    private void OnDestroy()
-    {
-        FindObjectOfType<LevelController>().AttackerKilled();
-    }
 
     void Update()
     {

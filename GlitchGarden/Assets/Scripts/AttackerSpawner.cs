@@ -12,9 +12,9 @@ public class AttackerSpawner : MonoBehaviour
     bool spawn = true;
     
 
+    // Start is called before the first frame update
     IEnumerator Start()
     {
-        
         while(spawn)
         {
             yield return new WaitForSeconds(Random.Range(minSpawnDelay, maxSpawnDelay));
@@ -22,17 +22,10 @@ public class AttackerSpawner : MonoBehaviour
         }
     }
 
-    public void StopSpawning()
-    {
-        spawn = false;
-    }
-
-
     private void SpawnAttacker()
     {
         var attackerIndex = Random.Range(0, attackerPrefabArray.Length);
-        Spawn(attackerPrefabArray[attackerIndex]);
-        Debug.Log("spawn = " + spawn);
+        Spawn(attackerPrefabArray[attackerIndex]); 
         
     }
 
