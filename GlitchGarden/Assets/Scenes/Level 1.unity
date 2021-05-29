@@ -497,13 +497,14 @@ GameObject:
   - component: {fileID: 1299598653}
   - component: {fileID: 1299598652}
   - component: {fileID: 1299598651}
+  - component: {fileID: 1299598654}
   m_Layer: 0
   m_Name: Level Lost Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1299598650
 RectTransform:
   m_ObjectHideFlags: 0
@@ -586,6 +587,32 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 10
   m_TargetDisplay: 0
+--- !u!61 &1299598654
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1299598649}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1920, y: 1080}
+  m_EdgeRadius: 0
 --- !u!4 &1341174214 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6196170206432920836, guid: 0c978f5b8c3d54ea1a00846691bd9891, type: 3}
@@ -717,7 +744,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1619574039
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1374,6 +1401,10 @@ PrefabInstance:
     - target: {fileID: 6678733567279614212, guid: a5fd066574cdf41ea9934b16174d0454, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7683114959306301994, guid: a5fd066574cdf41ea9934b16174d0454, type: 3}
+      propertyPath: levelTime
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7963826791470161634, guid: a5fd066574cdf41ea9934b16174d0454, type: 3}
       propertyPath: m_AnchorMax.x

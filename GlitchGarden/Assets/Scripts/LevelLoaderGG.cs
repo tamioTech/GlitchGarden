@@ -75,4 +75,16 @@ public class LevelLoaderGG : MonoBehaviour
         StartCoroutine(LevelCompleted());
     }
 
+    public void GameOver()
+    {
+        StartCoroutine(GameOverDelay());
+    }
+
+    IEnumerator GameOverDelay()
+    {
+        yield return new WaitForSeconds(3);
+        SceneManager.LoadScene("GameOver");
+
+    }
+
 }

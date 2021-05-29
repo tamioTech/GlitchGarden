@@ -45,6 +45,11 @@ public class BaseHealthDisplay : MonoBehaviour
         baseHealth -= damage;
         Debug.Log(baseHealth);
         UpdateDisplay();
+
+        if (baseHealth <= 0)
+        {
+            FindObjectOfType<LevelLoaderGG>().GameOver();
+        }
     }
 
     public int GetBaseHealth()
