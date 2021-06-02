@@ -45,7 +45,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   quitGameButtonSound: {fileID: 8300000, guid: 0db0e70c501504e81a3eb839831015de, type: 3}
   startButtonSound: {fileID: 8300000, guid: 9db64f7648a344649a8e2703d7f5ef67, type: 3}
-  levelCompleteSound: {fileID: 0}
+  levelCompleteSound: {fileID: 8300000, guid: a3b4ffe43dd7e4d849ab552b094dc173, type: 3}
+  optionsMenuButtonSound: {fileID: 8300000, guid: 495267b858db14a04ac8890d199b2eaa, type: 3}
+  optionsMenuButtonVolume: 1
   startButtonVolume: 0.179
   quitButtonVolume: 0.205
   levelCompleteVolume: 1

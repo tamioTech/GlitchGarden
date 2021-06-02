@@ -15,9 +15,11 @@ public class LevelLoaderGG : MonoBehaviour
     [SerializeField] AudioClip quitGameButtonSound;
     [SerializeField] AudioClip startButtonSound;
     [SerializeField] AudioClip levelCompleteSound;
-    [SerializeField] [Range(0, 1)] float startButtonVolume = 1.0f;
-    [SerializeField] [Range(0, 1)] float quitButtonVolume = 1.0f;
-    [SerializeField] [Range(0, 1)] float levelCompleteVolume = 1.0f;
+    [SerializeField] AudioClip optionsMenuButtonSound;
+    [SerializeField] [Range(0,1)] float optionsMenuButtonVolume = 1.0f;
+    [SerializeField] [Range(0,1)] float startButtonVolume = 1.0f;
+    [SerializeField] [Range(0,1)] float quitButtonVolume = 1.0f;
+    [SerializeField] [Range(0,1)] float levelCompleteVolume = 1.0f;
     [SerializeField] int scenePosition;
     [SerializeField] int timeToWait = 3;
     
@@ -63,6 +65,18 @@ public class LevelLoaderGG : MonoBehaviour
         AudioSource.PlayClipAtPoint(quitGameButtonSound, Camera.main.transform.position, quitButtonVolume);
     }
 
+    public void OptionsMenuButtonPressed()
+    {
+        AudioSource.PlayClipAtPoint(optionsMenuButtonSound, Camera.main.transform.position, optionsMenuButtonVolume);
+        SceneManager.LoadScene("OptionsMenu");
+    }
+
+    public void BackButtonPressed()
+    {
+        AudioSource.PlayClipAtPoint(optionsMenuButtonSound, Camera.main.transform.position, optionsMenuButtonVolume);
+        SceneManager.LoadScene(1);
+    }
+
     IEnumerator LevelCompleted()
     {
         yield return new WaitForSeconds(3);
@@ -86,5 +100,6 @@ public class LevelLoaderGG : MonoBehaviour
         SceneManager.LoadScene("GameOver");
 
     }
+
 
 }
