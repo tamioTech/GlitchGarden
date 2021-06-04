@@ -231,7 +231,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cac9146d1c6684a36be1f2f9e5f3e5c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  volumeSliderValue: 1
 --- !u!4 &741566457
 Transform:
   m_ObjectHideFlags: 0
@@ -349,7 +348,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cac9146d1c6684a36be1f2f9e5f3e5c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  volumeSliderValue: 1
 --- !u!1 &799274246
 GameObject:
   m_ObjectHideFlags: 0
