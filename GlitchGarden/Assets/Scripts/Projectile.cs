@@ -1,14 +1,23 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class Projectile : MonoBehaviour
 {
+    
 
     [SerializeField] float projectileSpeed = 7.0f;
     [SerializeField] float spinSpeed = 500.0f;
     [SerializeField] float damageAmount = 50;
 
+    private void Start()
+    {
+        
+
+    }
+
+    
 
     void Update()
     {
