@@ -498,6 +498,7 @@ GameObject:
   - component: {fileID: 1299598652}
   - component: {fileID: 1299598651}
   - component: {fileID: 1299598654}
+  - component: {fileID: 1299598655}
   m_Layer: 0
   m_Name: Level Lost Canvas
   m_TagString: Untagged
@@ -613,6 +614,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1920, y: 1080}
   m_EdgeRadius: 0
+--- !u!114 &1299598655
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1299598649}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75dd5c63b897b42b8b4d34abe90d247a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 10
+  deathVFX: {fileID: 0}
 --- !u!4 &1341174214 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6196170206432920836, guid: 0c978f5b8c3d54ea1a00846691bd9891, type: 3}
@@ -888,6 +903,8 @@ MonoBehaviour:
   quitGameButtonSound: {fileID: 8300000, guid: 65e3ef3c8e3244e22a7712dfc579cc7f, type: 3}
   startButtonSound: {fileID: 8300000, guid: 9db64f7648a344649a8e2703d7f5ef67, type: 3}
   levelCompleteSound: {fileID: 8300000, guid: 58ae9137dec7943c99a82d249caa7bcc, type: 3}
+  optionsMenuButtonSound: {fileID: 8300000, guid: b4fe7434597e64baa84e254f090948ca, type: 3}
+  optionsMenuButtonVolume: 0.324
   startButtonVolume: 0.47
   quitButtonVolume: 0.53
   levelCompleteVolume: 0.56
@@ -1313,6 +1330,10 @@ PrefabInstance:
     - target: {fileID: 753912798809031808, guid: a5fd066574cdf41ea9934b16174d0454, type: 3}
       propertyPath: m_AnchorMin.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3377892533273659121, guid: a5fd066574cdf41ea9934b16174d0454, type: 3}
+      propertyPath: baseHealth
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6678733567279614208, guid: a5fd066574cdf41ea9934b16174d0454, type: 3}
       propertyPath: m_Name

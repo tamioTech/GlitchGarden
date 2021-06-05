@@ -9,7 +9,7 @@ public class LevelController : MonoBehaviour
     bool levelTimerFinished = false;
     [SerializeField] GameObject winLabel;
     [SerializeField] GameObject loseLabel;
-    int baseHealth;
+    float baseHealth;
 
     private void Start()
     {
@@ -27,6 +27,7 @@ public class LevelController : MonoBehaviour
     public void AttackerKilled()
     {
         numberOfAttackers--;
+        FindObjectOfType<BaseHealthDisplay>().UpdateDisplay();
         Debug.Log(numberOfAttackers);
         Debug.Log("basehealth: " + baseHealth);
         if (numberOfAttackers <= 0 && levelTimerFinished && baseHealth > 0)

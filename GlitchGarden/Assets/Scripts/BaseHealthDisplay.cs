@@ -7,20 +7,23 @@ using UnityEngine.SceneManagement;
 public class BaseHealthDisplay : MonoBehaviour
 {
 
-    [SerializeField] int baseHealth = 12;
+    [SerializeField] float baseHealth = 3;
+    float lives;
     Text baseHealthText;
 
     // Start is called before the first frame update
     void Start()
     {
+        lives = baseHealth - PlayerPrefsController.GetDifficulty();
+        Debug.Log("baseHealh with difficulty setting: " + lives);
         baseHealthText = GetComponent<Text>();
-        baseHealthText.text = baseHealth.ToString();
+        UpdateDisplay();
     }
 
     // Update is called once per frame
     void Update()
     {
-        if(baseHealth <= 0)
+        if(lives <= 0)
         {
             FindObjectOfType<LevelController>().LoseLabel();
             YouLose();
@@ -30,7 +33,8 @@ public class BaseHealthDisplay : MonoBehaviour
 
     public void UpdateDisplay()
     {
-        baseHealthText.text = baseHealth.ToString();
+        Debug.Log("lives: " + lives);
+        baseHealthText.text = lives.ToString();
     }
 
     IEnumerator YouLose()
@@ -40,21 +44,21 @@ public class BaseHealthDisplay : MonoBehaviour
 
     }
 
-    public void DamageBase(int damage)
+    public void DamageBase(float damage)
     {
-        baseHealth -= damage;
-        Debug.Log(baseHealth);
+        lives -= damage;
+        Debug.Log(lives);
         UpdateDisplay();
 
-        if (baseHealth <= 0)
+        if (lives <= 0)
         {
             FindObjectOfType<LevelLoaderGG>().GameOver();
         }
     }
 
-    public int GetBaseHealth()
+    public float GetBaseHealth()
     {
-        return baseHealth;
+        return lives;
     }
 
 }

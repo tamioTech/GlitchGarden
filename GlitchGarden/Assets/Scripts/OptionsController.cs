@@ -8,11 +8,17 @@ public class OptionsController : MonoBehaviour
 
     [SerializeField] Slider volumeSlider;
     [SerializeField] float defaultVolume = 0.5f;
+    [SerializeField] Slider difficultySlider;
+    [SerializeField] float defaultDifficulty = 0;
 
     // Start is called before the first frame update
     void Start()
     {
+        volumeSlider.value = PlayerPrefsController.GetMasterVolume();
+        difficultySlider.value = PlayerPrefsController.GetDifficulty();
         Debug.Log("start default volume: " + volumeSlider.value);
+        Debug.Log("MasterVolumeAtStartIs: " + PlayerPrefsController.GetMasterVolume());
+
     }
 
     // Update is called once per frame
@@ -32,12 +38,14 @@ public class OptionsController : MonoBehaviour
     public void SetDefaults()
     {
         volumeSlider.value = defaultVolume;
+        difficultySlider.value = defaultDifficulty;
         Debug.Log(volumeSlider.value);
     }
 
     public void SaveAndExit()
     {
         PlayerPrefsController.SetMasterVolume(volumeSlider.value);
+        PlayerPrefsController.SetDifficulty(difficultySlider.value);
         FindObjectOfType<LevelLoaderGG>().MainMenuButtonPushed();
     }
 

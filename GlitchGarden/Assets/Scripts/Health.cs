@@ -13,6 +13,7 @@ public class Health : MonoBehaviour
     public void DealDamage(float damage)
     {
         health -= damage;
+        FindObjectOfType<BaseHealthDisplay>().UpdateDisplay();
         if (health <= 0)
         {
             //GetComponent<StarDisplay>().AddStars(50);

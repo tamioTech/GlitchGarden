@@ -21,7 +21,7 @@ public class LevelLoaderGG : MonoBehaviour
     [SerializeField] [Range(0,1)] float quitButtonVolume = 1.0f;
     [SerializeField] [Range(0,1)] float levelCompleteVolume = 1.0f;
     [SerializeField] int scenePosition;
-    [SerializeField] int timeToWait = 3;
+    [SerializeField] int timeToWait = 1;
     
 
     void Start ()
@@ -42,7 +42,7 @@ public class LevelLoaderGG : MonoBehaviour
     IEnumerator LoadMainMenu()
     {
         yield return new WaitForSeconds(timeToWait);
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1);
     }
 
     public void StartButtonPushed()
@@ -55,8 +55,8 @@ public class LevelLoaderGG : MonoBehaviour
     public void MainMenuButtonPushed()
     {
         Debug.Log("main menu button pushed");
-        SceneManager.LoadScene(0);
-        //StartCoroutine(LoadMainMenu());
+        //SceneManager.LoadScene(0);
+        StartCoroutine(LoadMainMenu());
     }
 
     public void QuitButtonPressed()
@@ -79,13 +79,13 @@ public class LevelLoaderGG : MonoBehaviour
 
     IEnumerator LevelCompleted()
     {
-        yield return new WaitForSeconds(3);
+        yield return new WaitForSeconds(timeToWait);
         SceneManager.LoadScene("Level 1");
     }
 
     public void LevelComplete()
     {
-        AudioSource.PlayClipAtPoint(levelCompleteSound, Camera.main.transform.position, levelCompleteVolume);
+        //AudioSource.PlayClipAtPoint(levelCompleteSound, Camera.main.transform.position, levelCompleteVolume);
         StartCoroutine(LevelCompleted());
     }
 
@@ -96,7 +96,7 @@ public class LevelLoaderGG : MonoBehaviour
 
     IEnumerator GameOverDelay()
     {
-        yield return new WaitForSeconds(3);
+        yield return new WaitForSeconds(timeToWait);
         SceneManager.LoadScene("GameOver");
 
     }
