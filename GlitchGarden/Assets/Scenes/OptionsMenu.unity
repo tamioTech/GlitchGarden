@@ -123,6 +123,63 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &97171344
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 334293971741541580, guid: 60b26f4616a4d4d92b250125dae9e719, type: 3}
+      propertyPath: m_Name
+      value: Music Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 334293971741541587, guid: 60b26f4616a4d4d92b250125dae9e719, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 334293971741541587, guid: 60b26f4616a4d4d92b250125dae9e719, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 334293971741541587, guid: 60b26f4616a4d4d92b250125dae9e719, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 334293971741541587, guid: 60b26f4616a4d4d92b250125dae9e719, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 334293971741541587, guid: 60b26f4616a4d4d92b250125dae9e719, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 334293971741541587, guid: 60b26f4616a4d4d92b250125dae9e719, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 334293971741541587, guid: 60b26f4616a4d4d92b250125dae9e719, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 334293971741541587, guid: 60b26f4616a4d4d92b250125dae9e719, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 334293971741541587, guid: 60b26f4616a4d4d92b250125dae9e719, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 334293971741541587, guid: 60b26f4616a4d4d92b250125dae9e719, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 334293971741541587, guid: 60b26f4616a4d4d92b250125dae9e719, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 60b26f4616a4d4d92b250125dae9e719, type: 3}
 --- !u!1 &418538112
 GameObject:
   m_ObjectHideFlags: 0
@@ -202,7 +259,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 418538112}
   m_CullTransparentMesh: 1
---- !u!1 &741566455
+--- !u!1 &628296266
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -210,40 +267,42 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 741566457}
-  - component: {fileID: 741566456}
+  - component: {fileID: 628296268}
+  - component: {fileID: 628296267}
   m_Layer: 0
-  m_Name: OptionsMenu
+  m_Name: Options Controller
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &741566456
+--- !u!114 &628296267
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 741566455}
+  m_GameObject: {fileID: 628296266}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cac9146d1c6684a36be1f2f9e5f3e5c3, type: 3}
+  m_Script: {fileID: 11500000, guid: 24164fdb0499342dbacb5224738cedf6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!4 &741566457
+  volumeSlider: {fileID: 781063550}
+  defaultVolume: 0.5
+--- !u!4 &628296268
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 741566455}
+  m_GameObject: {fileID: 628296266}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 416.25174, y: 139.68172, z: -3.875}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &781063548
 GameObject:
@@ -345,9 +404,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 781063548}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cac9146d1c6684a36be1f2f9e5f3e5c3, type: 3}
+  m_Script: {fileID: 11500000, guid: 24164fdb0499342dbacb5224738cedf6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  volumeSlider: {fileID: 781063550}
+  defaultVolume: 0.6
 --- !u!1 &799274246
 GameObject:
   m_ObjectHideFlags: 0
@@ -710,6 +771,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Level Loader
       objectReference: {fileID: 0}
+    - target: {fileID: 2168034152682883803, guid: 649b09c5d994a40f782e475b6d836342, type: 3}
+      propertyPath: startButtonVolume
+      value: 0.207
+      objectReference: {fileID: 0}
     - target: {fileID: 5198969602803141551, guid: 649b09c5d994a40f782e475b6d836342, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -756,17 +821,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 649b09c5d994a40f782e475b6d836342, type: 3}
---- !u!114 &1208162471 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 2168034152682883803, guid: 649b09c5d994a40f782e475b6d836342, type: 3}
-  m_PrefabInstance: {fileID: 1208162469}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 278c457a83c7b41569e2f8d2d3abab72, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1328650681
 GameObject:
   m_ObjectHideFlags: 0
@@ -1401,9 +1455,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1208162471}
-        m_TargetAssemblyTypeName: LevelLoaderGG, Assembly-CSharp
-        m_MethodName: BackButtonPressed
+      - m_Target: {fileID: 628296267}
+        m_TargetAssemblyTypeName: OptionsController, Assembly-CSharp
+        m_MethodName: SaveAndExit
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1713,9 +1767,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 741566456}
-        m_TargetAssemblyTypeName: OptionsMenu, Assembly-CSharp
-        m_MethodName: DefaultButtonPressed
+      - m_Target: {fileID: 628296267}
+        m_TargetAssemblyTypeName: OptionsController, Assembly-CSharp
+        m_MethodName: SetDefaults
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
