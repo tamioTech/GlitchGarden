@@ -20,7 +20,6 @@ public class Health : MonoBehaviour
             Debug.Log("Health < 0");
             TriggerDeathVFX();
             Destroy(gameObject);
-
         }
     }
 

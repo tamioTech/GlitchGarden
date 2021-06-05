@@ -39,7 +39,9 @@ public class OptionsController : MonoBehaviour
     {
         volumeSlider.value = defaultVolume;
         difficultySlider.value = defaultDifficulty;
-        Debug.Log(volumeSlider.value);
+        Debug.Log("new default vol: " + volumeSlider.value);
+        Debug.Log("new default dif: " + difficultySlider.value);
+
     }
 
     public void SaveAndExit()

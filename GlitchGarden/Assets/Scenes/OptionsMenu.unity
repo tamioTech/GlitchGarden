@@ -234,7 +234,7 @@ MonoBehaviour:
   volumeSlider: {fileID: 781063550}
   defaultVolume: 0.5
   difficultySlider: {fileID: 799274248}
-  defaultDifficulty: 2
+  defaultDifficulty: 1
 --- !u!4 &628296268
 Transform:
   m_ObjectHideFlags: 0
