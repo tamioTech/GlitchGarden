@@ -1576,6 +1576,7 @@ GameObject:
   - component: {fileID: 7165778223661156209}
   - component: {fileID: 7165778223661156210}
   - component: {fileID: 7165778223661156214}
+  - component: {fileID: 7165778223661156215}
   m_Layer: 0
   m_Name: ShredderBoxLeft
   m_TagString: Untagged
@@ -1593,6 +1594,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ffe4fca9b2f904ec2bb763c159acb485, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &7165778223661156215
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7165778223661156213}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55bb4eb5947af47b98db4eb0571b700d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!212 &7165778224173237979
