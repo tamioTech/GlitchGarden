@@ -1238,9 +1238,9 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 954294286}
     m_Modifications:
-    - target: {fileID: 6196170205050553352, guid: 0c978f5b8c3d54ea1a00846691bd9891, type: 3}
-      propertyPath: m_FlipX
-      value: 1
+    - target: {fileID: 3241797234078330548, guid: 0c978f5b8c3d54ea1a00846691bd9891, type: 3}
+      propertyPath: m_Name
+      value: Cost Text
       objectReference: {fileID: 0}
     - target: {fileID: 6196170205050553353, guid: 0c978f5b8c3d54ea1a00846691bd9891, type: 3}
       propertyPath: m_SpriteTilingProperty.drawMode
@@ -1250,9 +1250,21 @@ PrefabInstance:
       propertyPath: m_SpriteTilingProperty.adaptiveTiling
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6196170206108917317, guid: 0c978f5b8c3d54ea1a00846691bd9891, type: 3}
-      propertyPath: m_Size.x
-      value: 0.7070192
+    - target: {fileID: 6196170206118643890, guid: 0c978f5b8c3d54ea1a00846691bd9891, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6196170206118643890, guid: 0c978f5b8c3d54ea1a00846691bd9891, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6196170206118643890, guid: 0c978f5b8c3d54ea1a00846691bd9891, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6196170206118643890, guid: 0c978f5b8c3d54ea1a00846691bd9891, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 6196170206432920836, guid: 0c978f5b8c3d54ea1a00846691bd9891, type: 3}
       propertyPath: m_RootOrder
@@ -1302,13 +1314,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Background
       objectReference: {fileID: 0}
-    - target: {fileID: 6196170206891690795, guid: 0c978f5b8c3d54ea1a00846691bd9891, type: 3}
-      propertyPath: defenderPrefab
-      value: 
-      objectReference: {fileID: 7131661090613210942, guid: 16e12b04f84314b1c85c493a16503a52, type: 3}
-    - target: {fileID: 6196170206891690805, guid: 0c978f5b8c3d54ea1a00846691bd9891, type: 3}
-      propertyPath: m_FlipX
+    - target: {fileID: 6196170206432920891, guid: 0c978f5b8c3d54ea1a00846691bd9891, type: 3}
+      propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6196170206891690793, guid: 0c978f5b8c3d54ea1a00846691bd9891, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.086
+      objectReference: {fileID: 0}
+    - target: {fileID: 8884248602459613539, guid: 0c978f5b8c3d54ea1a00846691bd9891, type: 3}
+      propertyPath: m_Name
+      value: Cost Canvas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c978f5b8c3d54ea1a00846691bd9891, type: 3}
