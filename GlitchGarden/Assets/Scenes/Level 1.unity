@@ -1238,9 +1238,29 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 954294286}
     m_Modifications:
+    - target: {fileID: 1995359801803687428, guid: 0c978f5b8c3d54ea1a00846691bd9891, type: 3}
+      propertyPath: m_Text
+      value: 999
+      objectReference: {fileID: 0}
     - target: {fileID: 3241797234078330548, guid: 0c978f5b8c3d54ea1a00846691bd9891, type: 3}
       propertyPath: m_Name
       value: Cost Text
+      objectReference: {fileID: 0}
+    - target: {fileID: 3590516403651021474, guid: 0c978f5b8c3d54ea1a00846691bd9891, type: 3}
+      propertyPath: m_Text
+      value: 999
+      objectReference: {fileID: 0}
+    - target: {fileID: 4117101006890365593, guid: 0c978f5b8c3d54ea1a00846691bd9891, type: 3}
+      propertyPath: m_Text
+      value: 999
+      objectReference: {fileID: 0}
+    - target: {fileID: 6039186534263474902, guid: 0c978f5b8c3d54ea1a00846691bd9891, type: 3}
+      propertyPath: m_Text
+      value: 999
+      objectReference: {fileID: 0}
+    - target: {fileID: 6039186534263474902, guid: 0c978f5b8c3d54ea1a00846691bd9891, type: 3}
+      propertyPath: m_FontData.m_Alignment
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6196170205050553353, guid: 0c978f5b8c3d54ea1a00846691bd9891, type: 3}
       propertyPath: m_SpriteTilingProperty.drawMode

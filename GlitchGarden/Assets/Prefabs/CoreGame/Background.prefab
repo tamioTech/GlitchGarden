@@ -91,7 +91,6 @@ GameObject:
   - component: {fileID: 2935225386589189280}
   - component: {fileID: 5199057622525769126}
   - component: {fileID: 7855475636664976908}
-  - component: {fileID: 5756954198704406856}
   m_Layer: 0
   m_Name: Gravestone
   m_TagString: Untagged
@@ -204,19 +203,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   defenderPrefab: {fileID: 2320007740696920799, guid: 10ec943e42aa84912a1b0961c3f29a2c, type: 3}
---- !u!114 &5756954198704406856
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 547034590613558013}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f1bc108531df4f1c92e04d89275d0b7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  starCost: 100
 --- !u!1 &2078884929471380555
 GameObject:
   m_ObjectHideFlags: 0
@@ -666,7 +652,6 @@ GameObject:
   - component: {fileID: 6196170205050553352}
   - component: {fileID: 6196170205050553353}
   - component: {fileID: 6196170205050553354}
-  - component: {fileID: 6196170205050553355}
   m_Layer: 0
   m_Name: Cactus
   m_TagString: Untagged
@@ -779,19 +764,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   defenderPrefab: {fileID: 787943691163429419, guid: b91f698bb09e64586ba43337f22b61d5, type: 3}
---- !u!114 &6196170205050553355
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6196170205050553358}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f1bc108531df4f1c92e04d89275d0b7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  starCost: 100
 --- !u!1 &6196170206108917371
 GameObject:
   m_ObjectHideFlags: 0
@@ -804,7 +776,6 @@ GameObject:
   - component: {fileID: 6196170206108917318}
   - component: {fileID: 6196170206108917317}
   - component: {fileID: 6196170206108917319}
-  - component: {fileID: 6196170206108917312}
   m_Layer: 0
   m_Name: Trophy
   m_TagString: Untagged
@@ -917,19 +888,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   defenderPrefab: {fileID: 1707741100974950325, guid: 3bfa4a5a953d742d3947ad8a82576a74, type: 3}
---- !u!114 &6196170206108917312
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6196170206108917371}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f1bc108531df4f1c92e04d89275d0b7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  starCost: 100
 --- !u!1 &6196170206118643895
 GameObject:
   m_ObjectHideFlags: 0
@@ -1073,7 +1031,6 @@ GameObject:
   - component: {fileID: 6196170206891690805}
   - component: {fileID: 6196170206891690804}
   - component: {fileID: 6196170206891690795}
-  - component: {fileID: 6196170206891690794}
   m_Layer: 0
   m_Name: Gnome
   m_TagString: Untagged
@@ -1186,19 +1143,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   defenderPrefab: {fileID: 7131661090613210942, guid: 16e12b04f84314b1c85c493a16503a52, type: 3}
---- !u!114 &6196170206891690794
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6196170206891690792}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f1bc108531df4f1c92e04d89275d0b7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  starCost: 100
 --- !u!1 &7543789088026635201
 GameObject:
   m_ObjectHideFlags: 0
